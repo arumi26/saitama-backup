@@ -1,0 +1,6 @@
+name: bug_bounty_recon_pipeline
+title: Bug Bounty Recon Pipeline
+description: "Build an automated, continuously-running reconnaissance pipeline for bug bounty programs — subdomain enumeration, service fingerprinting, and change detection. Use when starting or scaling bug bounty recon."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

@@ -1,0 +1,5 @@
+name: bnb_tx_ops
+title: BNB tx ops (baw, BSC)
+description: 'Use for any BSC (chainId 56) transaction with the Binance Agentic Wallet CLI (baw): minting an NFT or token share, quoting a mint or sale price, listing, selling, or cancelling an NFT on a marketplace, approving a token/NFT, and selling or swapping a token. Read it before you build calldata, run a preview, or quote a price, and follow its price guard on every sell or list.'
+category: Finance
+include_in_prompt: false

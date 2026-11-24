@@ -1,0 +1,5 @@
+name: admin_only_missing_validation
+title: Admin-Only Missing Validation
+description: 'auditing smart contracts for bugs where admin/governance functions accept parameters that should be validated but aren''t. Common categories: `address(0)` fee recipient/treasury, zero amounts, out-of-bounds indices, duplicate keys.'
+category: Work and knowledge
+include_in_prompt: false

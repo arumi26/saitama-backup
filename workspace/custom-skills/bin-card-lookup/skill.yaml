@@ -1,0 +1,6 @@
+name: bin_card_lookup
+title: Bin Card Lookup
+description: "BIN (Bank Identification Number) card lookup and validation. Given a 6-8 digit BIN/IIN, returns card type (Visa/MC/Amex/Discover/JCB), brand, card level (Classic/Gold/Platinum/Prepaid), issuing bank, country, website, phone. Use for security research, card validation, testing flows, and identifying prepaid/test cards. NOT for generating or forging cards."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

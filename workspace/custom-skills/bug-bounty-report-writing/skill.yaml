@@ -1,0 +1,6 @@
+name: bug_bounty_report_writing
+title: Bug Bounty Report Writing
+description: "Write bug bounty reports that get triaged quickly and rated accurately — clear impact statements, minimal reproduction steps, and professional tone. Use before submitting any vulnerability report."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

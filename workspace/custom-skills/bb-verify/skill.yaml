@@ -1,0 +1,6 @@
+name: bb_verify
+title: Bb Verify
+description: "bb verify"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

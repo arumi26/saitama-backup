@@ -1,0 +1,6 @@
+name: aws_security_review
+title: Aws Security Review
+description: "Audit AWS environments for IAM privilege escalation, exposed resources, logging gaps, and misconfigurations across accounts. Use for cloud security assessments and hardening reviews."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

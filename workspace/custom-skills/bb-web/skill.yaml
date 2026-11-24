@@ -1,0 +1,6 @@
+name: bb_web
+title: Bb Web
+description: "bb web"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

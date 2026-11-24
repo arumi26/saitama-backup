@@ -1,0 +1,6 @@
+name: account_takeover
+title: "Account Takeover (ATO)"
+description: "account takeover, ato, account hijack, pre-account takeover, email change, password reset takeover, oauth takeover, session takeover"
+category: "Security · Auth"
+include_in_prompt: false
+source: superagent_v10_ironclaw

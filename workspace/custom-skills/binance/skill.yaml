@@ -1,0 +1,6 @@
+name: binance
+title: Binance
+description: "Use binance-cli for Binance Spot, Futures (USD-S), and Convert. Requires auth."
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

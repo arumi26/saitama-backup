@@ -1,0 +1,6 @@
+name: bounty_roi_2026
+title: Bounty Roi 2026
+description: "Pre-hunt ROI discipline for bug bounty in 2026 — why hunters find nothing, the mistakes that burn engagements, and the rules that convert effort into paid findings. Load BEFORE starting any new program, and again whenever 10+ leads close with zero findings."
+category: Redteam
+include_in_prompt: false
+source: hossam77i_security-agent-architecture

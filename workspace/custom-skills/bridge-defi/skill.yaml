@@ -1,0 +1,6 @@
+name: bridge_defi
+title: "Cross-Chain Bridge & DeFi Logic"
+description: "bridge security, cross-chain bridge, defi exploit, flash loan attack, price oracle manipulation, liquidity, amm, lp drain"
+category: "Security · Web3"
+include_in_prompt: false
+source: superagent_v10_ironclaw

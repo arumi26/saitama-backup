@@ -1,0 +1,6 @@
+name: binance_prediction_updown
+title: Binance Prediction Updown
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

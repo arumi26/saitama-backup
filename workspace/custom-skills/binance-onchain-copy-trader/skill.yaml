@@ -1,0 +1,6 @@
+name: binance_onchain_copy_trader
+title: Binance Onchain Copy Trader
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

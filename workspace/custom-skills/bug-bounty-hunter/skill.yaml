@@ -1,0 +1,5 @@
+name: bug_bounty_hunter
+title: Bug Bounty Hunter
+description: "Run an effective bug bounty program — scope design, triage, researcher relations, and remediation workflows."
+category: Security
+include_in_prompt: false

@@ -1,0 +1,6 @@
+name: binance_sports_ai_analyzer
+title: Binance Sports Ai Analyzer
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

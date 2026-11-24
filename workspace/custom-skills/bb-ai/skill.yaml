@@ -1,0 +1,6 @@
+name: bb_ai
+title: Bb Ai
+description: "bb ai"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

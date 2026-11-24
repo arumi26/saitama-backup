@@ -1,0 +1,6 @@
+name: antelope_eosio_contract_audit
+title: Antelope Eosio Contract Audit
+description: "Audit workflow for Antelope (EOSIO) smart contracts written in AssemblyScript (`*.contract.ts`) — the non-EVM chain family used by XPR Network, Proton, EOS, WAX, Telos. Clone, build with npm, write a green PoC with the @proton/vert test harness, verify the deployed code-hash matches the reviewed source, and hunt the bug classes that matter (reactive-guard action-ordering bypass, asymmetric time-locks, cross-contract notify auth, contract-RAM sinks). Use for any Antelope/EOSIO AssemblyScript protocol. NOT for EVM (evm-smart-contract-audit), Solana (solana-smart-contract-audit), Cosmos-SDK Go (cosmos-sdk-defi-audit), or off-chain indexers (onchain-indexer-audit)."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

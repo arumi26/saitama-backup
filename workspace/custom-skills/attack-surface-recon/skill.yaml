@@ -1,0 +1,6 @@
+name: attack_surface_recon
+title: Attack Surface Recon
+description: "Map an organization's external attack surface — domains, subdomains, exposed services, leaked credentials, and brand abuse. Use at the start of assessments or for continuous monitoring."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

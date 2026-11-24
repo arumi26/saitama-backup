@@ -1,0 +1,6 @@
+name: browser_extension_wallet_audit
+title: Browser Extension Wallet Audit
+description: "Audit browser-extension crypto wallets (Exodus, MetaMask, Phantom, Rabby, Keplr) for bug bounty. Download + unpack the CRX from the Chrome Web Store, map the content-script <-> background postMessage/IPC bridge, audit origin-trust (auto-connect allowlists, connectedOrigins), web_accessible_resources, externally_connectable, and extension-page CSP. Includes the dangling-domain-in-hardcoded-allowlist finding (registerable origin in an auto-connect list) and honest severity triage (connection-approval bypass != fund theft). Use when a wallet's browser extension is in scope."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

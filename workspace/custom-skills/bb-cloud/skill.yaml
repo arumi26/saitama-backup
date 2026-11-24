@@ -1,0 +1,6 @@
+name: bb_cloud
+title: Bb Cloud
+description: "bb cloud"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

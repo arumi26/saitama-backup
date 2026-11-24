@@ -1,0 +1,6 @@
+name: bb_recon
+title: Bb Recon
+description: "bb recon"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

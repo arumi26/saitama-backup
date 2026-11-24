@@ -1,0 +1,6 @@
+name: bug_bounty_playbook
+title: Bug Bounty Playbook
+description: "Complete Bug Bounty Playbook V1+V2 by Ghostlulz — pre-game recon, infra setup, exploitation techniques: SQLi, XSS, SSRF, CSRF, JWT, SAML, XXE, SSTI, API testing, CMS hacking, subdomain takeover, WebSocket hijacking, and 1-day CVE hunting workflow."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

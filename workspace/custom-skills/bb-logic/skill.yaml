@@ -1,0 +1,6 @@
+name: bb_logic
+title: Bb Logic
+description: "bb logic"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

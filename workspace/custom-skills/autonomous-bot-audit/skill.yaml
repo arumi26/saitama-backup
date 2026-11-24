@@ -1,0 +1,6 @@
+name: autonomous_bot_audit
+title: Autonomous Bot Audit
+description: "Audit a downloaded autonomous agent — Python bot (Telegram userbot, sniper, trading bot, stealer) or Node/TypeScript agent runtime (openclaw/xpr-agents-style: skill plugins, node:vm sandbox tool, A2A bridge, CLI-keychain signer). Produces a structured risk report with exploit paths."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

@@ -1,0 +1,6 @@
+name: attack_path_stitcher
+title: Attack Path Stitcher
+description: "Stitches confirmed single-asset findings into multi-hop attack paths across the organization. Builds a graph where nodes are assets and edges are confirmed exploit hops citing the findings that enable them."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

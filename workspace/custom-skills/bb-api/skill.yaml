@@ -1,0 +1,6 @@
+name: bb_api
+title: Bb Api
+description: "bb api"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

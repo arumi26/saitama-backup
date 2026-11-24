@@ -1,0 +1,6 @@
+name: api_key_leaks
+title: "API Key & Secret Leakage"
+description: "api key leaks, secret leak, leaked credentials, hardcoded key, github dork secret, js secret, exposed token"
+category: "Security · Recon"
+include_in_prompt: false
+source: superagent_v10_ironclaw

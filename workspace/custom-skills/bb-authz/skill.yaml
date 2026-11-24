@@ -1,0 +1,6 @@
+name: bb_authz
+title: Bb Authz
+description: "bb authz"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

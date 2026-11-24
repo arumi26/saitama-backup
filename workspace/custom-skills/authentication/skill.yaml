@@ -1,0 +1,6 @@
+name: authentication
+title: Authentication
+description: "Authentication security testing - auth bypass, JWT attacks, OAuth flaws, password attacks, 2FA bypass, CAPTCHA bypass, and bot detection evasion."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

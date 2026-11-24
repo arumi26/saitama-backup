@@ -1,0 +1,6 @@
+name: bb_report
+title: Bb Report
+description: "bb report"
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

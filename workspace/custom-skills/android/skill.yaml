@@ -1,0 +1,6 @@
+name: android
+title: "Android Testing"
+description: "Any Android APK in scope; the app maps the backend."
+category: "Security · Mobile"
+include_in_prompt: false
+source: superagent_v10_ironclaw

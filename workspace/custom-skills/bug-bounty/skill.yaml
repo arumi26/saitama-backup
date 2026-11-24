@@ -1,0 +1,5 @@
+name: bug_bounty
+title: Bug bounty
+description: 'Run a scoped bug-bounty engagement end to end: policy parsing, recon, authorization testing, chain building, CVSS, and submission-grade reports.'
+category: Work and knowledge
+include_in_prompt: false

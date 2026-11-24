@@ -1,0 +1,6 @@
+name: binary_triage
+title: "Binary Triage"
+description: "Any compiled artifact/firmware needing fast orientation."
+category: "Security · Reverse Engineering"
+include_in_prompt: false
+source: superagent_v10_ironclaw

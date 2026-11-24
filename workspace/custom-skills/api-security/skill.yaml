@@ -1,0 +1,6 @@
+name: api_security
+title: Api Security
+description: "API security testing - GraphQL, REST API, WebSocket, and Web-LLM attack techniques."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

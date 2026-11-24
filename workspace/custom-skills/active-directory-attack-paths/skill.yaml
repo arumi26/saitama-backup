@@ -1,0 +1,6 @@
+name: active_directory_attack_paths
+title: Active Directory Attack Paths
+description: "Enumerate and exploit common Active Directory misconfigurations such as Kerberoasting, AS-REP roasting, delegation abuse, and ACL attacks. Use during authorized internal network assessments."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

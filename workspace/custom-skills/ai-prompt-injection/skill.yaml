@@ -1,0 +1,6 @@
+name: ai_prompt_injection
+title: Ai Prompt Injection
+description: "Prompt injection & guardrail-bypass testing against AI/LLM applications — direct (jailbreak) vs indirect injection, and the document-deception family: font steganography, hidden/zero-width text, image-embedded text, metadata injection. Covers the two-parser problem (vision/OCR layer vs text-extraction layer), building payloads that pass a Security-AI filter but fire in a Human-AI reader, and the render-vs-extract verification methodology (headless Chromium + tesseract). Use when a target has a chatbot, agent, RAG pipeline, doc/CV/invoice parser, 'chat with your PDF', AI email/attachment reader, or any LLM that ingests user-supplied content."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

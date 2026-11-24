@@ -1,0 +1,6 @@
+name: agentic_sdlc_controls
+title: Agentic Sdlc Controls
+description: "Review a development pipeline where AI coding agents write, commit and deploy — permission boundaries, approval gates on irreversible actions, credential scope, and what must never be delegated. Use when agents have write access to a repository or an environment."
+category: Security
+include_in_prompt: false
+source: securityskills_skills
