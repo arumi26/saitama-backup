@@ -1,0 +1,6 @@
+name: script_generator
+title: Script Generator
+description: "Generates optimized, syntax-validated scripts on demand. Never executes — only generates, optimizes, and validates."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

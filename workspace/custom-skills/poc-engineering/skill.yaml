@@ -1,0 +1,6 @@
+name: poc_engineering
+title: "PoC Engineering"
+description: "Phase 05, to finalize any PoC (native or web)."
+category: "Security · Exploit Dev"
+include_in_prompt: false
+source: superagent_v10_ironclaw

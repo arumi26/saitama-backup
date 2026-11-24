@@ -1,0 +1,6 @@
+name: risk_prioritiser
+title: Risk Prioritiser
+description: "Risk-based prioritisation of confirmed attack paths. Combines exploit feasibility, technical CVSS severity, and asset business impact into a single ranked list driving remediation roadmaps."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

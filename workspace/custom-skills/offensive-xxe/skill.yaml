@@ -1,0 +1,6 @@
+name: offensive_xxe
+title: Offensive Xxe
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

@@ -1,0 +1,6 @@
+name: okx_guide
+title: Okx Guide
+description: "Guide users through installing or updating Onchain OS, getting started, OKX.AI introduction and role-registration routing, and customer support. Use when someone wants to install or update the Onchain OS CLI or skills, is new or asks what Onchain OS or OKX.AI is, wants a quick start, needs to register a User, ASP, or Evaluator role, or asks for Help Center, support, feedback, or FAQs."
+category: Finance
+include_in_prompt: false
+source: okx_onchainos-skills

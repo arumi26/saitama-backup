@@ -1,0 +1,6 @@
+name: okx_agent_payments_protocol
+title: Okx Agent Payments Protocol
+description: "Handle agent payments and paid endpoints via x402, MPP, payment links, a2a-pay, and HTTP-payment recurring or metered billing. Use for HTTP 402/payment-required; paid Agent or A2MCP endpoints; x402/Permit2; MPP channels, vouchers, or sessions; HTTP-payment subscriptions; or paymentId/link operations or status. Trigger phrases: x402/x402Version, X-PAYMENT, PAYMENT-REQUIRED, PAYMENT-SIGNATURE, WWW-Authenticate: Payment, x402 exact/exact+Permit2/upto/aggr_deferred, MPP charge/session, channelId/channel_id, payment-channel voucher/topup/settle/refund, metered billing, paymentId, a2a_, payment link, A2MCP, paid endpoint, and HTTP 402 period/permit2_subscription."
+category: Finance
+include_in_prompt: false
+source: okx_onchainos-skills

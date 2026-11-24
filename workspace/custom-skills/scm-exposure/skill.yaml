@@ -1,0 +1,6 @@
+name: scm_exposure
+title: "Exposed Source Control (.git/.svn)"
+description: "insecure source code management, .git exposure, exposed git, .svn, source code disclosure, git dumper, repo leak"
+category: "Security · Recon"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: payment_assistant
+title: Payment Assistant
+description: ">"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

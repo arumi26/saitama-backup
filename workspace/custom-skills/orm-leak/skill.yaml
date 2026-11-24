@@ -1,0 +1,6 @@
+name: orm_leak
+title: "ORM Leak / Mass Query Injection"
+description: "orm leak, orm injection, graphql filter leak, prisma leak, django orm leak, relational filter abuse, nested filter"
+category: "Security · API"
+include_in_prompt: false
+source: superagent_v10_ironclaw

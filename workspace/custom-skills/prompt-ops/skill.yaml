@@ -1,0 +1,5 @@
+name: prompt_ops
+title: Prompt ops
+description: Maintain this stack — author skills, version the charter, run drift audits and A/B evals, and patch without regressing refusal behavior.
+category: Learning and customization
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: sast_dast_pro
+title: SAST DAST Pro
+description: "Run static and dynamic application security testing — tool selection, tuning, triage, and developer integration."
+category: Security
+include_in_prompt: false

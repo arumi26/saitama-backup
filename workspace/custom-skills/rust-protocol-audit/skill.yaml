@@ -1,0 +1,6 @@
+name: rust_protocol_audit
+title: Rust Protocol Audit
+description: "Systematic audit methodology for Rust-based protocol/consensus code - BLS, vote pools, migration state machines, timer management, arithmetic safety. Breach mode approach: exhaust all attack vectors before declaring clean."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

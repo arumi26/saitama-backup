@@ -1,0 +1,6 @@
+name: payment_gateway_callback_audit
+title: Payment Gateway Callback Audit
+description: "Audit third-party payment-gateway and webhook/IPN plugins for callback-authenticity bypass — the \"verifier exists but is never called\" dead-code class where a forged server-to-server callback marks orders/invoices paid for free. Covers locating the framework's callback entry point (Blesta validate(), WooCommerce webhook/check_ipn_response, OpenCart/PrestaShop controllers, EDD), detecting a dead-code verifier with grep, proving the required contract against the framework's OFFICIAL reference gateway, sweeping the whole product family, and the PHP PoC evidence ladder — stub harness up to the REAL framework core distro with the dispatch embedded byte-for-byte plus a re-runnable verify.sh. Use when a target ships a payment plugin, billing/e-commerce gateway module, or any endpoint receiving signed callbacks/IPNs/webhooks. NOT for smart contracts (web3-audit) or generic XSS/IDOR (web2-vuln-classes)."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

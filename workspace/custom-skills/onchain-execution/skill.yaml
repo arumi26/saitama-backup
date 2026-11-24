@@ -1,0 +1,5 @@
+name: onchain_execution
+title: On-chain Execution
+description: Multi-chain crypto + Web3 agent toolkit untuk MUSE. Wajib digunakan kapan pun user minta operasi on-chain — buat wallet, import dari seed/private key, swap & sell token via contract address, beli/jual NFT, snipe token launch & NFT mint, otomatisasi airdrop multi-wallet, bridge cross-chain (LayerZero/Stargate/Across/LI.FI), DeFi (Aave, Lido, Uniswap V3, GMX, Hyperliquid, Pendle), SIWE/WalletConnect/EIP-712/EIP-1271/ENS, dan on-chain monitoring lengkap (wallet/whale tracker, mempool sniffer realtime, smart money via Nansen/Arkham/Dune, NFT whale alert, contract deployment listener, price/liquidation alert). Chain — Ethereum, BSC, Base, Arbitrum, Optimism, Polygon, Avalanche, Linea, Scroll, Solana, Sui, Aptos, TON. Trigger juga tanpa kata 'skill' — 'buatin wallet', 'swap token', 'snipe launch', 'klaim airdrop', 'tuyulin wallet', 'bridge ke base', 'stake ETH', 'pantau whale', 'sniff mempool', 'beli NFT' harus memicu skill ini.
+category: Finance
+include_in_prompt: false

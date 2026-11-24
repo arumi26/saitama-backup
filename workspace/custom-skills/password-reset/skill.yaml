@@ -1,0 +1,6 @@
+name: password_reset
+title: "Password Reset"
+description: "Any forgot-password/reset/recovery flow."
+category: "Security · Auth"
+include_in_prompt: false
+source: superagent_v10_ironclaw

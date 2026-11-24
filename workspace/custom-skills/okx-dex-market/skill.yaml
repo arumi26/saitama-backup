@@ -1,0 +1,6 @@
+name: okx_dex_market
+title: Okx Dex Market
+description: "Query read-only DEX token, market, signal, social, trenches, and WebSocket data. Use for token search, rankings, liquidity, holders, risk metadata, clusters, and trades; prices, K-lines/OHLC, indexes, and wallet PnL; smart-money/KOL/whale signals; news, sentiment, and token vibe; meme-launch, developer, bundle/sniper, and co-investor research; or DEX WebSocket clients. Triggers include hot tokens, holder concentration, smart money, top-trader leaderboards, pump.fun research, new token launches, on-chain token scanning, bundled or sniper activity, and WebSocket."
+category: Finance
+include_in_prompt: false
+source: okx_onchainos-skills

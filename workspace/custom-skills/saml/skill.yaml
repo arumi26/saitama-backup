@@ -1,0 +1,6 @@
+name: saml
+title: "SAML"
+description: "Enterprise SSO using SAML (ACS, SAMLResponse)."
+category: "Security · Auth"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: reconnaissance
+title: Reconnaissance
+description: "Domain assessment and web application mapping - subdomain discovery, port scanning, endpoint enumeration, API discovery, and attack surface analysis."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

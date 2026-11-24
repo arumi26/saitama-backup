@@ -1,0 +1,5 @@
+name: onchain_forensics
+title: On-chain forensics
+description: Trace funds and attribute addresses on EVM chains and UTXO chains — clustering heuristics, bridge and CEX hops, sanctions checks, and court-ready evidence bundles.
+category: Finance
+include_in_prompt: false

@@ -1,0 +1,6 @@
+name: offensive_windows_mitigations
+title: Offensive Windows Mitigations
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

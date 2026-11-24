@@ -1,0 +1,6 @@
+name: query_token_audit
+title: Query Token Audit
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

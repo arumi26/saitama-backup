@@ -1,0 +1,6 @@
+name: onchain_indexer_audit
+title: Onchain Indexer Audit
+description: "Audit off-chain indexers / backends that mirror on-chain contract state into a database and serve an API — Antelope/EOSIO (Hyperion) indexers, EVM subgraphs, custom pollers, event ingestors. Covers the shadow-ledger divergence bug classes — synthetic PK assignment vs the contract's availablePrimaryKey, async ID correction collisions, inclusive after= cursor semantics, global_sequence dedup, over-page-cap block draining, seed-then-poll duplicate processing (INSERT OR REPLACE clobbering), cascade parity with contract admin ops, archived-vs-hard-delete, Antelope quantity parsing plus inline refunds, ambiguous-trace conservatism, and the webhook dispatcher as an SSRF sink. NOT for smart-contract audits (see web3-audit / evm-smart-contract-audit) and not for Python bot audits (see autonomous-bot-audit)."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

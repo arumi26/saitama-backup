@@ -1,0 +1,6 @@
+name: otp_bruteforce_testing
+title: Otp Bruteforce Testing
+description: "Detect, validate, and exploit OTP (one-time password) brute-force vulnerabilities in phone/email verification, MFA, password-reset, and transaction-confirmation flows. Use when a target issues numeric one-time codes (4-8 digits via SMS/email), when OTP verification endpoints appear unthrottled, when reviewing authentication or account-recovery code, or when assessing rate limiting on verification APIs. Produces PoC scripts, response-oracle analysis, CVSS scoring, and remediation guidance."
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

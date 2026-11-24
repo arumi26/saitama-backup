@@ -1,0 +1,6 @@
+name: open_redirect
+title: "Open Redirect"
+description: "Any redirect param (next/redirect/url/return/callback)."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

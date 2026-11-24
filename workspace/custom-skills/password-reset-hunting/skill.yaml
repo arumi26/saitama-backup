@@ -1,0 +1,6 @@
+name: password_reset_hunting
+title: Password Reset Hunting
+description: "Password-reset / account-recovery attack playbook for bug bounty. Use when a target has a forgot-password / reset-password / magic-link / email-change flow. Covers the 8 high-yield reset vulnerabilities (non-expiring token, token leak via Referer/response, email-param manipulation HPP/CC/separator/XXE, host-header poisoning, no rate limit, user enumeration, HTML injection in reset email) plus a curl-based probe script to triage a target fast. Web2 only — NOT for smart contracts."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

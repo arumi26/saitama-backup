@@ -1,0 +1,6 @@
+name: patt_fetcher
+title: Patt Fetcher
+description: "Fetches and extracts payloads from PayloadsAllTheThings on demand. Bake into executor prompts for live payload enrichment."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

@@ -1,0 +1,6 @@
+name: rate_limit
+title: "Rate Limiting & Resource Abuse"
+description: "Login/OTP/reset/invite/coupon and expensive endpoints (API4)."
+category: "Security · API"
+include_in_prompt: false
+source: superagent_v10_ironclaw

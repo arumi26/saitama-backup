@@ -1,0 +1,6 @@
+name: pci_dss_scoping
+title: Pci Dss Scoping
+description: "Scope a PCI DSS environment correctly — cardholder data flows, segmentation validation, and requirements mapping for compliance. Use when preparing for PCI DSS v4.0 assessments."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

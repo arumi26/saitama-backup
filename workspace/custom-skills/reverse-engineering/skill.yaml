@@ -1,0 +1,6 @@
+name: reverse_engineering
+title: Reverse Engineering
+description: "Static and dynamic reverse engineering — ELF/PE analysis, custom-VM bytecode, packed binaries, anti-debug bypass, Frida hooking."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

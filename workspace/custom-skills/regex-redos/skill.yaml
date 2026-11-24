@@ -1,0 +1,6 @@
+name: regex_redos
+title: "ReDoS (Regular Expression DoS)"
+description: "redos, regex dos, regular expression dos, catastrophic backtracking, evil regex, regex denial of service"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

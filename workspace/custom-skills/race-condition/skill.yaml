@@ -1,0 +1,6 @@
+name: race_condition
+title: "Race Conditions"
+description: "Any limited/idempotency-sensitive action (redeem/withdraw/vote/coupon)."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

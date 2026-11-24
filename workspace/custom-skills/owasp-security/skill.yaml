@@ -1,0 +1,5 @@
+name: owasp_security
+title: OWASP Security
+description: "Apply OWASP frameworks (Top 10, ASVS, SAMM, MASVS, Cheat Sheets) to design, test, and harden web and mobile applications."
+category: Security
+include_in_prompt: false

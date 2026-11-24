@@ -1,0 +1,6 @@
+name: okx_mcp_services
+title: Okx Mcp Services
+description: "Access NewsLiquid / 6551 through the OnchainOS CLI. Use for explicitly chosen NewsLiquid, News Liquid, 6551 or 6551Team operations and clear continuations, including information queries, wallet-backed service plans and WSS client guidance; explain supported services locally."
+category: Finance
+include_in_prompt: false
+source: okx_onchainos-skills

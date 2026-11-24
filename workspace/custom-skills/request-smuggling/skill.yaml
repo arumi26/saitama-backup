@@ -1,0 +1,6 @@
+name: request_smuggling
+title: "HTTP Request Smuggling (Desync)"
+description: "Chained proxy/CDN + origin; CL/TE handling quirks."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

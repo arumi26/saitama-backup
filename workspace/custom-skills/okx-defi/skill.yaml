@@ -1,0 +1,6 @@
+name: okx_defi
+title: Okx Defi
+description: "Discover and manage OKX-aggregated DeFi products and positions across protocols and chains. Use for generic or venue-agnostic yield, APY, or TVL discovery and history; DeFi deposits, staking, liquidity, withdrawals, rewards, lending, CLMM analysis; and DeFi portfolio or position views. Requests targeting a named protocol belong to DApp discovery. Triggers include earn yield, best APY, DeFi product, APY/TVL history, deposit, stake, withdraw, redeem, provide or remove liquidity, claim rewards, borrow or repay, CLMM, V3 liquidity charts, DeFi portfolio, and DeFi holdings."
+category: Finance
+include_in_prompt: false
+source: okx_onchainos-skills

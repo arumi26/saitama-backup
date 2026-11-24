@@ -1,0 +1,6 @@
+name: offensive_xss
+title: Offensive Xss
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

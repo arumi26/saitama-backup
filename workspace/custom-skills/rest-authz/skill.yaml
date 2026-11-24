@@ -1,0 +1,6 @@
+name: rest_authz
+title: "REST Authorization (BOLA/BFLA)"
+description: "Any REST API with ids or role-gated functions (API1/API5)."
+category: "Security · API"
+include_in_prompt: false
+source: superagent_v10_ironclaw

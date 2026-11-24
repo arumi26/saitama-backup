@@ -1,0 +1,6 @@
+name: scam_site_investigation
+title: Scam Site Investigation
+description: "Investigate suspicious websites — tech stack analysis, infrastructure fingerprinting, social media OSINT, phishing form detection, developer identity tracing. Use when user asks \"is this site legit?\", \"analyze this website\", \"who's behind this site?\", or shares a suspicious URL."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

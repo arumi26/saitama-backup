@@ -1,0 +1,5 @@
+name: osint
+title: OSINT
+description: Map a person, company, or domain from public sources — asset graph, registries, certificates, breaches, geolocation — with provenance on every claim.
+category: Work and knowledge
+include_in_prompt: false

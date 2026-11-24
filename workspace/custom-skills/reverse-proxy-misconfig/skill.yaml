@@ -1,0 +1,6 @@
+name: reverse_proxy_misconfig
+title: "Reverse Proxy Misconfigurations"
+description: "reverse proxy misconfig, nginx misconfig, path confusion, proxy bypass, X-Accel, off-by-slash, alias traversal, header smuggling proxy"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

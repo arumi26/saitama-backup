@@ -1,0 +1,6 @@
+name: scope_guard
+title: "Scope Guard — the 5 gates"
+description: "Phase 00 and before any new host or aggressive action. Non-negotiable."
+category: "Security · Bug-Hunt Core"
+include_in_prompt: false
+source: superagent_v10_ironclaw

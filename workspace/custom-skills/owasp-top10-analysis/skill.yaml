@@ -1,0 +1,6 @@
+name: owasp_top10_analysis
+title: Owasp Top10 Analysis
+description: "Systematically review a web application against the OWASP Top 10 vulnerability classes with concrete test cases per category. Use for web app assessments and security gate reviews."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

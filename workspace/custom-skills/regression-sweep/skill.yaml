@@ -1,0 +1,6 @@
+name: regression_sweep
+title: Regression Sweep
+description: "Re-validates every previously-confirmed finding against its current target — detects drift (patched, mitigated, re-introduced). Cron-driven weekly sweep across the org's validated finding tree."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools
