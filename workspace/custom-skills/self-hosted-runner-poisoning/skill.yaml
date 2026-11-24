@@ -1,0 +1,6 @@
+name: self_hosted_runner_poisoning
+title: Self Hosted Runner Poisoning
+description: ">"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

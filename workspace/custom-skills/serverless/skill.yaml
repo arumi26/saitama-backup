@@ -1,0 +1,6 @@
+name: serverless
+title: "Serverless Security (Lambda/Functions)"
+description: "serverless, lambda, cloud functions, azure functions, event injection, function url, denial of wallet, cold start"
+category: "Security · Cloud/Infra"
+include_in_prompt: false
+source: superagent_v10_ironclaw

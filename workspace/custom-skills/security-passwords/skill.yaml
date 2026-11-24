@@ -1,0 +1,6 @@
+name: security_passwords
+title: Security Passwords
+description: "Top password lists for authorized security testing: common passwords, darkweb leaks, worst passwords. Curated essentials (<10MB)."
+category: Security
+include_in_prompt: false
+source: Eyadkelleh_awesome-skills-security

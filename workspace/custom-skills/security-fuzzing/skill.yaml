@@ -1,0 +1,6 @@
+name: security_fuzzing
+title: Security Fuzzing
+description: "Essential fuzzing payloads: SQL injection, command injection, special characters. Curated essentials for vulnerability testing."
+category: Security
+include_in_prompt: false
+source: Eyadkelleh_awesome-skills-security

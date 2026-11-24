@@ -1,0 +1,6 @@
+name: security_patterns
+title: Security Patterns
+description: "Sensitive data patterns for security testing: API keys, credit cards, emails, SSNs, phone numbers, IPs, and more. Use for data discovery and validation."
+category: Security
+include_in_prompt: false
+source: Eyadkelleh_awesome-skills-security

@@ -1,0 +1,5 @@
+name: security_research
+title: Security research
+description: Full security-research playbook for bug bounty, vulnerability analysis, smart contract auditing, and web/API/infrastructure pentesting. Runs recon, attack-surface mapping, PoC development, severity assessment, and submission-grade reporting, strictly inside authorized scope.
+category: Work and knowledge
+include_in_prompt: false

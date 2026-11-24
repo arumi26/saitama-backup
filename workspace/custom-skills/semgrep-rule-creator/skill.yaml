@@ -1,0 +1,6 @@
+name: semgrep_rule_creator
+title: Semgrep Rule Creator
+description: "Creates custom Semgrep rules for detecting security vulnerabilities, bug patterns, and code patterns. Use when writing Semgrep rules or building custom static analysis detections."
+category: Security
+include_in_prompt: false
+source: trailofbits_skills

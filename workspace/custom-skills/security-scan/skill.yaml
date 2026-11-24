@@ -1,0 +1,6 @@
+name: security_scan
+title: Security Scan
+description: "Scan your Claude Code configuration (.claude/ directory) for security vulnerabilities, misconfigurations, and injection risks using AgentShield."
+category: Engineering
+include_in_prompt: false
+source: sharquille_agent-skills-repository

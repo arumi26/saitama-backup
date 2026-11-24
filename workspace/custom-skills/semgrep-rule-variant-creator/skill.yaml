@@ -1,0 +1,6 @@
+name: semgrep_rule_variant_creator
+title: Semgrep Rule Variant Creator
+description: "Creates language variants of existing Semgrep rules. Use when porting a Semgrep rule to specified target languages. Takes an existing rule and target languages as input, produces independent rule+test directories for each language."
+category: Security
+include_in_prompt: false
+source: trailofbits_skills

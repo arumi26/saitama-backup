@@ -1,0 +1,6 @@
+name: skill_update
+title: Skill Update
+description: "Skill creation, update and management — generates skill directory structure, validates against best practices, enforces line count limits. Use when creating, updating, or improving skills."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

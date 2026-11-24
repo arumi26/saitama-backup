@@ -1,0 +1,6 @@
+name: session
+title: "Session Management"
+description: "After any login; audit session lifecycle."
+category: "Security · Auth"
+include_in_prompt: false
+source: superagent_v10_ironclaw

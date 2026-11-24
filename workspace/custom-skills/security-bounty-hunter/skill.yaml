@@ -1,0 +1,6 @@
+name: security_bounty_hunter
+title: Security Bounty Hunter
+description: "Hunt for exploitable, bounty-worthy security issues in repositories. Focuses on remotely reachable vulnerabilities that qualify for real reports instead of noisy local-only findings."
+category: Engineering
+include_in_prompt: false
+source: sharquille_agent-skills-repository

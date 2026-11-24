@@ -1,0 +1,6 @@
+name: server_side
+title: Server Side
+description: "Server-side vulnerability testing - SSRF, HTTP Request Smuggling, Path Traversal, File Upload, Insecure Deserialization, and Host Header injection."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

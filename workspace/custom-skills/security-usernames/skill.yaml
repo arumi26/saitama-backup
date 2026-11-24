@@ -1,0 +1,6 @@
+name: security_usernames
+title: Security Usernames
+description: "Top username lists for enumeration: common usernames, default credentials, names. Curated essentials for authorized testing."
+category: Security
+include_in_prompt: false
+source: Eyadkelleh_awesome-skills-security

@@ -1,0 +1,6 @@
+name: security_payloads
+title: Security Payloads
+description: "Essential exploitation payloads: anti-virus test files, file name exploits, malicious files. Curated for testing."
+category: Security
+include_in_prompt: false
+source: Eyadkelleh_awesome-skills-security

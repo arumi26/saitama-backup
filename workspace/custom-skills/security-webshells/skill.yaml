@@ -1,0 +1,6 @@
+name: security_webshells
+title: Security Webshells
+description: "Web shell samples for detection and analysis: PHP, ASP, ASPX, JSP, Python, Perl shells. Use for security research and detection system testing."
+category: Security
+include_in_prompt: false
+source: Eyadkelleh_awesome-skills-security
