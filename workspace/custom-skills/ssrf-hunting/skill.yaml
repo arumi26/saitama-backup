@@ -1,0 +1,6 @@
+name: ssrf_hunting
+title: Ssrf Hunting
+description: "Find and exploit Server-Side Request Forgery across URL-fetching features, including cloud metadata bypasses and blind SSRF techniques. Use during web assessments and bug bounty hunting."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

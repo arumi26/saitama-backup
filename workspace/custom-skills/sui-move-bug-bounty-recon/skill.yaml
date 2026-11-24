@@ -1,0 +1,6 @@
+name: sui_move_bug_bounty_recon
+title: Sui Move Bug Bounty Recon
+description: "Bug bounty recon AND audit for Sui / Move DeFi protocols (leveraged yield farms, DEX, lending, perps). Locate source + deployed package ID when frontend is locked down, pull on-chain addresses from DefiLlama adapters, query Sui via non-deprecated RPC, disassemble deployed Move bytecode, gate on authorized scope, then audit the Move source and build a runnable `sui move test` PoC against the REAL modules. See references/move-audit-and-poc.md for the audit+PoC playbook (fail-open @0 signature bypass AND its second-order persisted-sentinel variant, owned-vs-shared reachability gate, minimal + full-package PoC builds)."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

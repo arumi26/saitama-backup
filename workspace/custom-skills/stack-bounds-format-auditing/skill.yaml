@@ -1,0 +1,6 @@
+name: stack_bounds_format_auditing
+title: Stack Bounds Format Auditing
+description: "Detect, audit, and validate stack buffer overflows caused by incorrect bounds arithmetic in string formatting and memory copy operations (snprintf, swprintf, sprintf, strncpy, memcpy) writing into fixed stack buffers where the size argument is not decremented as the destination pointer advances. Use when auditing C/C++ network protocol serializers, URL/URI builders, message formatters, IPC serialization, or logging routines concatenating attacker-controlled fields. Reproduces HackerOne #2551512 (Nintendo NEX StationURL::Format). Produces static scans, crash validation harnesses, CVSS scoring, and remediation guidance."
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

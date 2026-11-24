@@ -1,0 +1,6 @@
+name: ssi_injection
+title: "Server-Side Includes (SSI/ESI) Injection"
+description: "ssi injection, server side includes, esi injection, edge side includes, #exec, #include virtual"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

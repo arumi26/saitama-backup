@@ -1,0 +1,6 @@
+name: ssl_tls
+title: "SSL/TLS Security"
+description: "ssl tls, certificate, heartbleed, weak cipher, tls misconfig, cert validation, mitm, hsts"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

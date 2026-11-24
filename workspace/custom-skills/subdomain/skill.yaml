@@ -1,0 +1,6 @@
+name: subdomain
+title: "Subdomain Enumeration"
+description: "Phase 01 after OSINT, to expand surface."
+category: "Security · Recon"
+include_in_prompt: false
+source: superagent_v10_ironclaw

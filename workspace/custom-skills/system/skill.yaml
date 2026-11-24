@@ -1,0 +1,6 @@
+name: system
+title: System
+description: "System exploitation testing - Active Directory attacks, privilege escalation (Linux/Windows), and exploit development."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

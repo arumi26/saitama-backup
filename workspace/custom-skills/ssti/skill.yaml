@@ -1,0 +1,6 @@
+name: ssti
+title: "SSTI"
+description: "User input rendered through a server template (emails/PDFs/pages/notifications)."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

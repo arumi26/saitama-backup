@@ -1,0 +1,6 @@
+name: static_re
+title: "Static RE"
+description: "After triage, to map logic & sinks without running."
+category: "Security · Reverse Engineering"
+include_in_prompt: false
+source: superagent_v10_ironclaw

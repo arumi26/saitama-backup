@@ -1,0 +1,6 @@
+name: ssrf_scanner
+title: Ssrf Scanner
+description: "SSRF-Scanner — comprehensive SSRF vulnerability scanner with 10 attack phases, 377 payloads, and ~28,300 requests per target"
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills
