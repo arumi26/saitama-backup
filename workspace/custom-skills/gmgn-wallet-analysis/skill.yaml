@@ -1,0 +1,6 @@
+name: gmgn_wallet_analysis
+title: Gmgn Wallet Analysis
+description: ">-"
+category: Security
+include_in_prompt: false
+source: GMGNAI_gmgn-skills

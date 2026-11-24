@@ -1,0 +1,6 @@
+name: gmgn_market
+title: Gmgn Market
+description: "Get crypto and meme token price charts (K-line, candlestick, OHLCV), trending meme coin rankings by volume, newly launched tokens on launchpads (pump.fun, fourmeme, letsbonk, Raydium, etc.), the hot-search ranking (most-searched tokens), and search for a specific token or wallet by name, symbol, contract address, wallet address, or ENS via GMGN API on Solana, BSC, Base, or Ethereum. Use when user asks for price chart, trending tokens, what's pumping, hot coins, most searched tokens, new launches, token signals, wants to look up / find / search a specific token or wallet by name or address, or wants to discover early-stage opportunities."
+category: Security
+include_in_prompt: false
+source: GMGNAI_gmgn-skills

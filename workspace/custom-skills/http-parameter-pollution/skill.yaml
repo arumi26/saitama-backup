@@ -1,0 +1,6 @@
+name: http_parameter_pollution
+title: "HTTP Parameter Pollution (HPP)"
+description: "http parameter pollution, hpp, duplicate parameter, parameter pollution, array parameter, waf bypass hpp"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

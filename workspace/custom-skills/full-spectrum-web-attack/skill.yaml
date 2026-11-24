@@ -1,0 +1,6 @@
+name: full_spectrum_web_attack
+title: Full Spectrum Web Attack
+description: "Full-spectrum web app attack — recon to admin breach."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

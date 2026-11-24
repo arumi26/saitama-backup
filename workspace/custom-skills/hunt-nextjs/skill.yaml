@@ -1,0 +1,6 @@
+name: hunt_nextjs
+title: Hunt Nextjs
+description: "Hunt Next.js specific vulnerabilities — Server Actions arbitrary function execution, Middleware auth bypass via static asset paths, ISR cache poisoning, Image Optimization SSRF (/_next/image), RSC payload leakage, getServerSideProps injection, source map exposure, debug endpoint leakage. Use when target runs Next.js 13/14/15 or any React SSR framework."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

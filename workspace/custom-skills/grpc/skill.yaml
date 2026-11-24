@@ -1,0 +1,6 @@
+name: grpc
+title: "gRPC / Protobuf Security"
+description: "grpc, protobuf, grpc-web, protocol buffers, grpc reflection, grpc fuzzing, api modern"
+category: "Security · API"
+include_in_prompt: false
+source: superagent_v10_ironclaw

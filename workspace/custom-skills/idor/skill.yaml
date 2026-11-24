@@ -1,0 +1,6 @@
+name: idor
+title: "IDOR / BOLA"
+description: "Any endpoint referencing an object by id/uuid/slug — the #1 class."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

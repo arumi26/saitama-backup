@@ -1,0 +1,6 @@
+name: gdpr_data_mapping
+title: Gdpr Data Mapping
+description: "Build a GDPR-compliant data inventory — record of processing activities, lawful basis mapping, data subject rights readiness, and breach response procedures. Use for GDPR audits and privacy programs."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

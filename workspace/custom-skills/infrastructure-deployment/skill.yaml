@@ -1,0 +1,5 @@
+name: infrastructure_deployment
+title: Infrastructure & Deployment
+description: VPS, deploy, SSH, nginx, docker, systemd, server, linux, bash, sysadmin.
+category: Work and knowledge
+include_in_prompt: false

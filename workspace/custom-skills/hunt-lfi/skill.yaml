@@ -1,0 +1,6 @@
+name: hunt_lfi
+title: Hunt Lfi
+description: "Hunt Local File Inclusion (LFI), Remote File Inclusion (RFI), and Path Traversal — /etc/passwd read, log poisoning → RCE, PHP filter-chain RCE (no upload needed), php:// / data:// / zip:// / phar:// wrappers, RFI via allow_url_include, directory traversal read/write/delete. Covers OOB/blind LFI confirmation and false-positive discipline. Use when hunting file-include or path-traversal bugs on any target."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

@@ -1,0 +1,6 @@
+name: gmgn_swap
+title: Gmgn Swap
+description: ">-"
+category: Security
+include_in_prompt: false
+source: GMGNAI_gmgn-skills

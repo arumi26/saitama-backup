@@ -1,0 +1,8 @@
+name: ezbot_project_research
+title: EZbot Project Research
+description: 'Research a crypto project website, public contract and participation
+  mechanism - mint, claim, buy, synthesize and refund paths - with sourced current
+  status and participation instructions. For a project URL, post or contract address;
+  does no wallet signing or trading. Original (Chinese): 研究加密项目的网站、公开合约与参与机制，识别铸造、领取、购买、合成及退款路径，输出有来源的当前状态与参与说明。适用于项目网址、帖子或合约地址研究，不执行钱包签名和交易。'
+category: Work and knowledge
+include_in_prompt: false

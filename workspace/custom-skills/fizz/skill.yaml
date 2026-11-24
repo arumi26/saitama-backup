@@ -1,0 +1,6 @@
+name: fizz
+title: Fizz
+description: "Generate Echidna/Medusa-compatible Solidity fuzz suites from Foundry or Hardhat projects. Trigger on \"fizz\", \"generate fuzz suite\", \"build fuzz harness\", \"stateful fuzzing\", \"fuzzing harness\", \"property testing\", and \"invariant suite\"."
+category: Security
+include_in_prompt: false
+source: pashov_skills

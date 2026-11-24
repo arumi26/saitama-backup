@@ -1,0 +1,6 @@
+name: graphql_and_hidden_parameters
+title: Graphql And Hidden Parameters
+description: ">-"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

@@ -1,0 +1,6 @@
+name: fuzzing
+title: "Fuzzing"
+description: "You have a binary/parser/protocol and want crashes."
+category: "Security · Exploit Dev"
+include_in_prompt: false
+source: superagent_v10_ironclaw

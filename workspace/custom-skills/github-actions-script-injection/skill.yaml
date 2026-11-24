@@ -1,0 +1,6 @@
+name: github_actions_script_injection
+title: Github Actions Script Injection
+description: ">"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

@@ -1,0 +1,6 @@
+name: hunt_rce
+title: Hunt Rce
+description: "Hunting skill for rce vulnerabilities. Built from 67 public bug bounty reports. Use when hunting rce on any target."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

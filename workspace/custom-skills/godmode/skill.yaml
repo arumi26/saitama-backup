@@ -1,0 +1,6 @@
+name: godmode
+title: Godmode
+description: "Jailbreak LLMs: Parseltongue, GODMODE, ULTRAPLINIAN."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

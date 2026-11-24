@@ -1,0 +1,6 @@
+name: hackenproof_triage_marketplace
+title: Hackenproof Triage Marketplace
+description: "HackenProof-specific triage workflow"
+category: Security
+include_in_prompt: false
+source: prize22_bountyforge-4.1

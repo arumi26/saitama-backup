@@ -1,0 +1,6 @@
+name: hunt_nosqli
+title: Hunt Nosqli
+description: "Hunt NoSQL Injection — MongoDB operator injection ($where, $regex, $gt, $ne), CouchDB, Redis command injection, auth bypass via NoSQLi, data dump. Use when target uses MongoDB/Mongoose, CouchDB, Redis, or shows NoSQL error messages."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

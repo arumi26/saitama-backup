@@ -1,0 +1,6 @@
+name: github_actions_cache_poisoning
+title: Github Actions Cache Poisoning
+description: ">"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

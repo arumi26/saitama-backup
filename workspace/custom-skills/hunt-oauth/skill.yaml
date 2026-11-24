@@ -1,0 +1,6 @@
+name: hunt_oauth
+title: Hunt Oauth
+description: "Hunting skill for oauth vulnerabilities. Built from 19 public bug bounty reports. Use when hunting oauth on any target."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

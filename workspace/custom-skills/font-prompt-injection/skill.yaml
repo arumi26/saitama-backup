@@ -1,0 +1,6 @@
+name: font_prompt_injection
+title: Font Prompt Injection
+description: "Build font-based dual-layer documents (EvilFontTool) for prompt-injection / guardrail-bypass testing — one file, two texts (human/OCR sees A, machine/DLP/LLM sees B). Use when testing vision-LLM injection, DLP evasion, or \"AI sees different text than the human\" deception labs."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

@@ -1,0 +1,6 @@
+name: gmgn_token
+title: Gmgn Token
+description: "Research any crypto or meme token by address — real-time price, market cap, liquidity, holder list, trader list, top Smart Money and KOL positions, security audit (honeypot, rug pull risk, dev wallet, renounced status), social links (Twitter/X, website) via GMGN API on Solana, BSC, Base, or Ethereum. Use when user asks about a token's price, safety, holders, traders, smart money exposure, or wants due diligence before buying."
+category: Security
+include_in_prompt: false
+source: GMGNAI_gmgn-skills

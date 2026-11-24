@@ -1,0 +1,6 @@
+name: gmgn_cooking
+title: Gmgn Cooking
+description: "[FINANCIAL EXECUTION] Create and launch meme coins and crypto tokens on launchpads (Pump.fun, FourMeme, Bonk, BAGS, Flap, Klik, Clanker, etc.) via bonding curve fair launch, or query token creation stats by launchpad via GMGN API. Use when user asks to create a token, launch a meme coin, cook a coin, deploy on a launchpad, or check launchpad creation stats on Solana, BSC, or Base."
+category: Security
+include_in_prompt: false
+source: GMGNAI_gmgn-skills

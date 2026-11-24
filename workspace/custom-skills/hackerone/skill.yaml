@@ -1,0 +1,6 @@
+name: hackerone
+title: Hackerone
+description: "HackerOne bug bounty automation - parses scope CSVs, deploys parallel pentesting agents per asset, validates PoCs, and generates platform-ready submission reports."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

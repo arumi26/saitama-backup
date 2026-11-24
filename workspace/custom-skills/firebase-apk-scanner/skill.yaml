@@ -1,0 +1,6 @@
+name: firebase_apk_scanner
+title: Firebase Apk Scanner
+description: "Scans Android APKs for Firebase security misconfigurations including open databases, storage buckets, authentication issues, and exposed cloud functions. Use when analyzing APK files for Firebase vulnerabilities, performing mobile app security audits, or testing Firebase endpoint security. For authorized security research only."
+category: Security
+include_in_prompt: false
+source: trailofbits_skills

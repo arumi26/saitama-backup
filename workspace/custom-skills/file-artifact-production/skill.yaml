@@ -1,0 +1,5 @@
+name: file_artifact_production
+title: File & Artifact Production
+description: PDF, DOCX, XLSX, PPTX, generate file, export, dokumen, file.
+category: Work and knowledge
+include_in_prompt: false

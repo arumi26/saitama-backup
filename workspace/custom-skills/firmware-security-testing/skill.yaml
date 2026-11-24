@@ -1,0 +1,6 @@
+name: firmware_security_testing
+title: Firmware Security Testing
+description: "OWASP Firmware Security Testing Methodology (FSTM) — end-to-end workflow for IoT/embedded/router firmware assessments. Use when a target is a router, camera, IoT device, or any embedded device with a firmware image (or when you need to extract/analyze one). Covers the 9 stages — recon, obtaining firmware, analysis (binwalk/entropy), filesystem extraction, static analysis, emulation (FirmAE/qemu), dynamic analysis, runtime analysis, and binary exploitation — plus a one-shot fw-recon.sh script. Authorized targets only."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

@@ -1,0 +1,6 @@
+name: hunt_misc
+title: Hunt Misc
+description: "Hunting skill for misc vulnerabilities. Built from 225 public bug bounty reports. Use when hunting misc on any target."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

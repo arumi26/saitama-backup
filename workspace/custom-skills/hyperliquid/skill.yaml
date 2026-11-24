@@ -1,0 +1,6 @@
+name: hyperliquid
+title: Hyperliquid
+description: "Trade perp futures, spot, and RWA on Hyperliquid DEX with up to asset max leverage. Use when placing perp or spot orders, setting TP/SL, or moving funds on Hyperliquid (e.g. long BTC 5x, sell ETH, deposit USDC, set stop)."
+category: Finance
+include_in_prompt: false
+source: starchild-ai-agent_official-skills

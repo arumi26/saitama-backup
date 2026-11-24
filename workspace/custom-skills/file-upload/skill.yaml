@@ -1,0 +1,6 @@
+name: file_upload
+title: "File Upload"
+description: "Any upload feature (avatar/doc/import/attachment)."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

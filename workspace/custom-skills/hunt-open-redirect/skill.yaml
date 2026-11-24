@@ -1,0 +1,6 @@
+name: hunt_open_redirect
+title: Hunt Open Redirect
+description: "Hunt Open Redirect — all types including low-impact, chained to OAuth token theft → ATO, phishing chains. URL parameter manipulation, JavaScript redirect, meta refresh, header injection. Use when hunting redirect bugs or building ATO chains."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

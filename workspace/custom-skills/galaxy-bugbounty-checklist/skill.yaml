@@ -1,0 +1,6 @@
+name: galaxy_bugbounty_checklist
+title: Galaxy Bugbounty Checklist
+description: "Comprehensive bug bounty hunting checklist — 2FA bypass, API security, account takeover, broken access control, CRLF, CSRF, DOS, file upload, HTTP smuggling, IIS, parameter pollution, open redirect, SQLi, SSRF. Use when testing web apps for vulnerabilities."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

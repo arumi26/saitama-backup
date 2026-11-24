@@ -1,0 +1,6 @@
+name: incident_response_forensics
+title: Incident Response Forensics
+description: "Perform digital forensics during incident response — evidence preservation, volatile data collection, artifact analysis, and timeline construction. Use when investigating a suspected compromise."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

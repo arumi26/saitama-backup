@@ -1,0 +1,6 @@
+name: graphql
+title: "GraphQL"
+description: "Any /graphql,/gql,/query, or GraphQL in JS."
+category: "Security · API"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: hackingtool
+title: Hackingtool
+description: "All-in-one hacking toolkit by Z4nzu — 185+ tools across 20 categories (recon, web, SQLi, XSS, phishing, wireless, post-exploit, forensics, AD, cloud, mobile). Use when pentesting, bug bounty hunting, or security research."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

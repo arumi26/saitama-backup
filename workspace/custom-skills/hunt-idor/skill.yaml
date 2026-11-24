@@ -1,0 +1,6 @@
+name: hunt_idor
+title: Hunt Idor
+description: "Hunting skill for idor vulnerabilities. Built from 26 public bug bounty reports. Use when hunting idor on any target."
+category: Security
+include_in_prompt: false
+source: murrtada_bug-bounty-agent-skills

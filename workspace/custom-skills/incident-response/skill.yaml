@@ -1,0 +1,5 @@
+name: incident_response
+title: Incident response
+description: Run a live incident — triage, severity, containment order, evidence preservation, eradication, recovery, and a postmortem that changes something.
+category: Work and knowledge
+include_in_prompt: false
