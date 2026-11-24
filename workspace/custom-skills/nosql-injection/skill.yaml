@@ -1,0 +1,6 @@
+name: nosql_injection
+title: "NoSQL Injection"
+description: "nosql injection, mongodb injection, nosqli, operator injection, $ne, $gt, $where, json injection auth bypass"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

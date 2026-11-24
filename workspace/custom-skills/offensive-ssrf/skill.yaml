@@ -1,0 +1,6 @@
+name: offensive_ssrf
+title: Offensive Ssrf
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

@@ -1,0 +1,6 @@
+name: offensive_request_smuggling
+title: Offensive Request Smuggling
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

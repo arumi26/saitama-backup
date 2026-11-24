@@ -1,0 +1,6 @@
+name: offensive_crash_analysis
+title: Offensive Crash Analysis
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

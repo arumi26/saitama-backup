@@ -1,0 +1,6 @@
+name: offensive_bug_identification
+title: Offensive Bug Identification
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

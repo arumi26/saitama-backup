@@ -1,0 +1,6 @@
+name: mass_assignment
+title: "Mass Assignment & Excessive Data Exposure"
+description: "Any create/update endpoint + any JSON response (API3)."
+category: "Security · API"
+include_in_prompt: false
+source: superagent_v10_ironclaw

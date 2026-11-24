@@ -1,0 +1,6 @@
+name: java_backend_architect
+title: Java Backend Architect
+description: "Comprehensive skill for designing and building scalable Spring Boot backend systems with clean architecture, JWT auth, MySQL, REST APIs, Docker, Redis, Kafka, microservices, and production deployment. Trigger when users ask to create, scaffold, or architect Java/Spring Boot backend services."
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

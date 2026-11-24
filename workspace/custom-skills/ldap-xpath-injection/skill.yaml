@@ -1,0 +1,6 @@
+name: ldap_xpath_injection
+title: "LDAP & XPath Injection"
+description: "ldap injection, xpath injection, directory injection, ldap filter, xpath query, xpath auth bypass, ldap auth bypass"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: offensive_keylogger_arch
+title: Offensive Keylogger Arch
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

@@ -1,0 +1,6 @@
+name: latex_injection
+title: "LaTeX Injection"
+description: "latex injection, latex rce, pdf generation injection, input, write18, tex injection, overleaf injection"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

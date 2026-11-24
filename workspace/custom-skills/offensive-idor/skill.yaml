@@ -1,0 +1,6 @@
+name: offensive_idor
+title: Offensive Idor
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

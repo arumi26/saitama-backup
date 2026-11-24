@@ -1,0 +1,6 @@
+name: offensive_vuln_classes
+title: Offensive Vuln Classes
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

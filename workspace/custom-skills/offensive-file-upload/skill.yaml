@@ -1,0 +1,6 @@
+name: offensive_file_upload
+title: Offensive File Upload
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

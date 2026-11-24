@@ -1,0 +1,6 @@
+name: mobile_weak_crypto
+title: Mobile Weak Crypto
+description: ">"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

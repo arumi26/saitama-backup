@@ -1,0 +1,5 @@
+name: multi_x
+title: Multi-X
+description: 'Run several X accounts from one operator seat: cookie sessions, pool rotation, pacing, follow/like/comment runs, and suspension hygiene.'
+category: Communication
+include_in_prompt: false

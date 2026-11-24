@@ -1,0 +1,6 @@
+name: kubernetes_security_audit
+title: Kubernetes Security Audit
+description: "Audit Kubernetes clusters for RBAC excesses, pod security gaps, network policy holes, and supply-chain risks. Use when reviewing cluster configuration or hardening deployments."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

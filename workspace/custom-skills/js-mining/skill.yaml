@@ -1,0 +1,6 @@
+name: js_mining
+title: "JavaScript Mining"
+description: "Phase 01/02 for SPAs — richest endpoint source."
+category: "Security · Recon"
+include_in_prompt: false
+source: superagent_v10_ironclaw

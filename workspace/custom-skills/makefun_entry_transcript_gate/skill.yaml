@@ -1,0 +1,21 @@
+name: makefun_entry_transcript_gate
+title: Make.fun Entry Transcript and Submission Gate
+description: Submit a make.fun entry whose transcript and usage evidence pass grading, by starting recording before the build and verifying the bundle before submission.
+category: Creation
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - 01a1f35f-7b1f-72d5-ae83-df7c6fe47f6d
+  - assistant-msg-30f91be8
+  - 01a1e845-67f6-7389-94be-8ebd8a80c340
+  measurement:
+    proxy_metric_id: objective_success_rate
+    success_criterion: No make.fun entry built with this skill in the window is rejected at grading on transcript checks, every submitted bundle passes the kit transcript check before submission, and every bundle uses a kit level meeting the competition minimum for its submission date
+    window_days: 30
+  needs_review: false
+  rationale: 'The only managed skill, makefun_entry_transcript_gate (revision b39897b3509087c1c4e15b5c3e8597dc2b48a6a8a29145d785203e34a751f647, read at ~/workspace/custom-skills/makefun_entry_transcript_gate/SKILL.md), told the agent to run the kit transcript check but never to check the kit level first. On 2026-11-19 the github-core-clone-01 round-2 entry was rejected at 17:26 WIB on transcripts_run_record (24 pass, 1 fail) because its bundle was made with kit level 19 while entries from 2026-11-18T12:00Z need kit level 20 or higher; the round-3 resubmission (01a1f35f-7b1f-72d5-ae83-df7c6fe47f6d, claim AF-VN253-30CFD-SZ3BR-2NE6X) then scored 25 pass, 0 fail, 6 skip. The rejection cost a submission attempt and a resubmit cycle that the existing gate was meant to prevent. Adding a kit-level check before bundling, with the observed 20+ threshold, closes that specific gap. Other candidates were checked and rejected: the three makefun-heartbeat-30m 3600s timeouts and the 46 generic tool/subagent failures carry no error detail tying them to a reusable method; the memory recurring failures and handoff-suppression hypotheses concern objective-loop prompts and cadence, which are out of scope for this loop; the gta6-meme-x-01 field-count misread was a one-off corrected in-turn and is already covered by the system live_page_checks skill; the Gmail approval-card recurrence is a device-side technical limit, not a skill gap. Consolidation is not triggered: only 1 active learned skill exists, below the 10-skill threshold, and the inventory tail (R-Z) shows no recovered notes or amendments marked for review.'
+  review_after: 2026-12-20T08:37:02.523667+00:00
+  reviewed_at: 2026-11-20T08:37:02.523667+00:00
+  run_id: sirun_a1d7b3b9e55c4f6cbf156652e0273b33

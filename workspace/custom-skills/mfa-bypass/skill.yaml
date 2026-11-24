@@ -1,0 +1,6 @@
+name: mfa_bypass
+title: "MFA / 2FA Bypass"
+description: "Any login enforcing MFA/OTP/2FA."
+category: "Security · Auth"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: oauth
+title: "OAuth / OIDC"
+description: "Any 'Sign in with…' / OAuth / OIDC / SSO."
+category: "Security · Auth"
+include_in_prompt: false
+source: superagent_v10_ironclaw

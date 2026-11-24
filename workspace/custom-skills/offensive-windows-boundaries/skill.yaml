@@ -1,0 +1,6 @@
+name: offensive_windows_boundaries
+title: Offensive Windows Boundaries
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

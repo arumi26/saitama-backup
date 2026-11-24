@@ -1,0 +1,6 @@
+name: offensive_initial_access
+title: Offensive Initial Access
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

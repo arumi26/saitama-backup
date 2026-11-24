@@ -1,0 +1,6 @@
+name: mutation_testing
+title: Mutation Testing
+description: "Configures mewt or muton campaigns, analyzes surviving mutants, and investigates bugs exposed by testing gaps. Use when setting up mutation testing, reviewing campaign results, identifying equivalent mutants, or finding bugs from surviving mutations."
+category: Security
+include_in_prompt: false
+source: trailofbits_skills

@@ -1,0 +1,6 @@
+name: offensive_osint_methodology
+title: Offensive Osint Methodology
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

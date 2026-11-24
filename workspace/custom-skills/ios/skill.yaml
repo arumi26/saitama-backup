@@ -1,0 +1,6 @@
+name: ios
+title: "iOS Testing"
+description: "Any iOS app in scope."
+category: "Security · Mobile"
+include_in_prompt: false
+source: superagent_v10_ironclaw

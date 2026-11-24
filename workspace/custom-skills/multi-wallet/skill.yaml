@@ -1,0 +1,5 @@
+name: multi_wallet
+title: Multi-wallet
+description: 'Operate many derived addresses across many EVM chains: derivation hygiene, funding, gas, nonce, consolidation, approvals, and airdrop-safe separation.'
+category: Finance
+include_in_prompt: false

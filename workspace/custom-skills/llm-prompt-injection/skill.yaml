@@ -1,0 +1,6 @@
+name: llm_prompt_injection
+title: Llm Prompt Injection
+description: ">-"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

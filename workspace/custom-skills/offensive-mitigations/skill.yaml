@@ -1,0 +1,6 @@
+name: offensive_mitigations
+title: Offensive Mitigations
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

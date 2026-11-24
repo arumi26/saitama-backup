@@ -1,0 +1,6 @@
+name: maigret
+title: Maigret
+description: "Maigret — username OSINT tool that checks 3000+ sites for accounts and extracts profile data. GitHub: soxoj/maigret"
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

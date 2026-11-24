@@ -1,0 +1,6 @@
+name: offensive_network_attacks
+title: Offensive Network Attacks
+description: "Dense description covering ARP spoofing, LLMNR/NBT-NS/mDNS poisoning, DNS poisoning, MITM attacks, VLAN hopping, DHCP attacks, 802.1X/NAC bypass, IPv6 attacks. Tools: Bettercap, Responder, mitm6, Ettercap, Wireshark. MITRE T1557, T1040. Use when conducting internal network assessments or testing Layer 2/3 attack surface."
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

@@ -1,0 +1,6 @@
+name: methodology
+title: "Core Methodology"
+description: "Always — the mental model for every engagement."
+category: "Security · Bug-Hunt Core"
+include_in_prompt: false
+source: superagent_v10_ironclaw

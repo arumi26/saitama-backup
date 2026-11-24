@@ -1,0 +1,6 @@
+name: offensive_fuzzing_course
+title: Offensive Fuzzing Course
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

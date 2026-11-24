@@ -1,0 +1,6 @@
+name: offensive_open_redirect
+title: Offensive Open Redirect
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

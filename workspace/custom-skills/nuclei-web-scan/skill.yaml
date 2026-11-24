@@ -1,0 +1,6 @@
+name: nuclei_web_scan
+title: Nuclei Web Scan
+description: "Nuclei template scanning for bug bounty web surface. Covers exposures, misconfig, takeovers, CVEs, vulnerabilities, tech fingerprint. Use when scanning web targets for known vulnerabilities, misconfigurations, or exposed sensitive endpoints. Nuclei at ~/go/bin/nuclei, templates at ~/nuclei-templates (13.5K+ yaml files). Run from terminal, NOT execute_code (subprocess blocked in cron mode)."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

@@ -1,0 +1,6 @@
+name: jwt
+title: "JWT Attacks"
+description: "Any JWT (eyJ...)."
+category: "Security · Auth"
+include_in_prompt: false
+source: superagent_v10_ironclaw

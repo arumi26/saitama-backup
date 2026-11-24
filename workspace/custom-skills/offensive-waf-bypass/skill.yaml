@@ -1,0 +1,6 @@
+name: offensive_waf_bypass
+title: Offensive Waf Bypass
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

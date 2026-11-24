@@ -1,0 +1,6 @@
+name: memory_corruption
+title: "Memory Corruption"
+description: "You have a crash/primitive and need control."
+category: "Security · Exploit Dev"
+include_in_prompt: false
+source: superagent_v10_ironclaw

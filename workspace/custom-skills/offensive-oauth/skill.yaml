@@ -1,0 +1,6 @@
+name: offensive_oauth
+title: Offensive Oauth
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

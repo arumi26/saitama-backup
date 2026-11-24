@@ -1,0 +1,6 @@
+name: offensive_edr_evasion
+title: Offensive Edr Evasion
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

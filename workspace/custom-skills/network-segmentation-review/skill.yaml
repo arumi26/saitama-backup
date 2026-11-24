@@ -1,0 +1,6 @@
+name: network_segmentation_review
+title: Network Segmentation Review
+description: "Review network segmentation designs and verify enforcement — VLANs, firewalls, cloud security groups, and zero-trust boundaries. Use when assessing internal network architecture."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

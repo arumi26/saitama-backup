@@ -1,0 +1,6 @@
+name: jwt_security_review
+title: Jwt Security Review
+description: "Audit JSON Web Token implementations for algorithm confusion, weak secrets, missing validation, and token lifecycle flaws. Use when a codebase or API uses JWTs for auth."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

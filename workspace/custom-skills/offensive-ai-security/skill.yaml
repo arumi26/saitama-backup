@@ -1,0 +1,6 @@
+name: offensive_ai_security
+title: Offensive Ai Security
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

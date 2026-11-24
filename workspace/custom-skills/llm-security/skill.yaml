@@ -1,0 +1,6 @@
+name: llm_security
+title: "LLM Application Security (Prompt Injection & AI App Testing)"
+description: "prompt injection, llm security, jailbreak, ai app pentest, rag poisoning, system prompt leak, indirect injection, OWASP LLM, agent tool abuse, data exfiltration llm, model dos"
+category: "Security · LLM/AI"
+include_in_prompt: false
+source: superagent_v10_ironclaw

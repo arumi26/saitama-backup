@@ -1,0 +1,6 @@
+name: offensive_fast_checking
+title: Offensive Fast Checking
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

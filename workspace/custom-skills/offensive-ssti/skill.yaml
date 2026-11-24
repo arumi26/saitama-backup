@@ -1,0 +1,6 @@
+name: offensive_ssti
+title: Offensive Ssti
+description: "Dense description covering Server-Side Template Injection across Jinja2, Twig, Freemarker, Velocity, Pebble, Smarty, Mako, Handlebars, ERB, Thymeleaf, EJS, Pug. Engine fingerprinting, filter bypass, blind exploitation, WAF evasion, SSTI-to-RCE chains. Tools: tplmap. CWE-1336. MITRE T1190. Use when testing template rendering endpoints or exploiting template injection for code execution."
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

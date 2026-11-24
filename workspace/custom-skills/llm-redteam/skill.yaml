@@ -1,0 +1,5 @@
+name: llm_redteam
+title: LLM red-team
+description: Measure and improve a model's refusal behavior — bench design, payload laddering, per-vendor quirks, drift tests, and injection resistance.
+category: Work and knowledge
+include_in_prompt: false

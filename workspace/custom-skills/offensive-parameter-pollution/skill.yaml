@@ -1,0 +1,6 @@
+name: offensive_parameter_pollution
+title: Offensive Parameter Pollution
+description: ""
+category: Security
+include_in_prompt: false
+source: SnailSploit_Claude-Red

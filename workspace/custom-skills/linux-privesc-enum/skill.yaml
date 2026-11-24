@@ -1,0 +1,6 @@
+name: linux_privesc_enum
+title: Linux Privesc Enum
+description: "Linux privilege-escalation enumeration and exploitation playbook for post-exploitation. Use after you land a shell on a Linux box (CTF, lab, or authorized engagement) and need to escalate to root. Covers manual enum, automated tools (LinPeas/LinEnum), kernel/sudo exploits, weak file perms, credential hunting, and Docker escape — plus a one-shot loot.sh script that runs all safe checks and writes a report. Authorized targets only."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

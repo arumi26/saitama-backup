@@ -1,0 +1,6 @@
+name: injection
+title: Injection
+description: "Injection vulnerability testing - SQL, NoSQL, OS Command, SSTI, XXE, and LDAP/XPath injection techniques."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

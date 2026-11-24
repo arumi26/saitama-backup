@@ -1,0 +1,6 @@
+name: mobile_auth_bypass
+title: Mobile Auth Bypass
+description: ">"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

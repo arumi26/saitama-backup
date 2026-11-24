@@ -1,0 +1,6 @@
+name: mobile_insecure_storage
+title: Mobile Insecure Storage
+description: ">"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

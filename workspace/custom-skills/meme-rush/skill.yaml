@@ -1,0 +1,6 @@
+name: meme_rush
+title: Meme Rush
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub
