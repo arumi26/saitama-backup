@@ -1,0 +1,6 @@
+name: web3_start_here
+title: Web3 Start Here
+description: "Master index for the web3 smart contract security knowledge base. Use this to navigate the skill chain. Read files in order — each ends with NEXT."
+category: Security
+include_in_prompt: false
+source: awarexone_web3-bug-bounty-hunting-ai-skills

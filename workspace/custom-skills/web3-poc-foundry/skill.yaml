@@ -1,0 +1,6 @@
+name: web3_poc_foundry
+title: Web3 Poc Foundry
+description: "Complete Foundry PoC writing guide + all cheatcodes + DeFiHackLabs reproduction patterns. Use this when building a proof of concept exploit, setting up a fork test, using Foundry cheatcodes, or reproducing a known DeFi hack for learning."
+category: Security
+include_in_prompt: false
+source: awarexone_web3-bug-bounty-hunting-ai-skills

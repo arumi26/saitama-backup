@@ -1,0 +1,6 @@
+name: xss
+title: "XSS (reflected / stored / DOM / blind)"
+description: "Any user input rendered in a page or reachable client-side sink."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

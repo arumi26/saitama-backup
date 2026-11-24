@@ -1,0 +1,6 @@
+name: type_juggling
+title: "Type Juggling / Loose Comparison"
+description: "type juggling, loose comparison, php type juggling, magic hash, == vs ===, 0e hash collision, json type confusion"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

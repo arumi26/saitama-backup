@@ -1,0 +1,6 @@
+name: techstack_backend
+title: Techstack Backend
+description: "Backend tech-stack identification — web servers, runtimes, languages, frameworks, databases, APIs, and CMS via HTTP headers, cookies, error pages, and API discovery."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

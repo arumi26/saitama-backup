@@ -1,0 +1,6 @@
+name: vectorbt_backtest
+title: Vectorbt Backtest
+description: "Quick backtest a strategy on a symbol. Creates a complete .py script with data fetch, signals, backtest, stats, and plots."
+category: Finance
+include_in_prompt: false
+source: marketcalls_vectorbt-backtesting-skills

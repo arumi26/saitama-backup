@@ -1,0 +1,6 @@
+name: websocket
+title: "WebSocket Security"
+description: "websocket, ws, wss, socket.io, websocket hijacking, cswsh, websocket injection, origin bypass"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

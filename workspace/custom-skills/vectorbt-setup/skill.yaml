@@ -1,0 +1,6 @@
+name: vectorbt_setup
+title: Vectorbt Setup
+description: "Set up the Python backtesting environment. Detects OS, creates virtual environment, installs dependencies (openalgo, ta-lib, vectorbt, plotly), and creates the backtesting folder structure."
+category: Finance
+include_in_prompt: false
+source: marketcalls_vectorbt-backtesting-skills

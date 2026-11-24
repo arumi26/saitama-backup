@@ -1,0 +1,6 @@
+name: web_api_bug_bounty_playbook
+title: Web Api Bug Bounty Playbook
+description: "|"
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

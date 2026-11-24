@@ -1,0 +1,29 @@
+<!doctype html>
+<!--
+  HOST PAGE — origin :8000
+  Mimics a legitimate partner site that embeds the target SDK.
+  Replace:
+    - the <script src> with the SDK URL (or a local copy you fetched + hashed)
+    - window.<CONFIG> with the exact config global the SDK expects
+    - the init call with however the SDK bootstraps its widget
+  Also include an attacker-origin iframe (a stand-in for the third-party
+  frame a real partner page would host: ad / analytics / chat / map).
+-->
+<html lang="en">
+<head><meta charset="utf-8"><title>Legit partner page (embedding the SDK)</title></head>
+<body>
+  <h1>Legitimate partner page</h1>
+  <p>Embeds the target SDK exactly as a real integrator would.</p>
+
+  <!-- attacker frame on a DIFFERENT origin; in the wild this is any 3rd-party embed -->
+  <iframe src="http://127.0.0.1:8001/attacker.html"
+          style="width:1px;height:1px;opacity:0"></iframe>
+
+  <script src="/sdk/sdk.js"></script>
+  <script>
+    // exact config global + bootstrap the SDK expects (copy from real integration docs)
+    window.adaConfig = { customizationId: "demo", language: "en" };
+    // e.g. window.adaApp = new Ada({ ... }); window.adaApp.launch();
+  </script>
+</body>
+</html>

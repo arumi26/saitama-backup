@@ -1,0 +1,6 @@
+name: wordpress_bug_bounty
+title: Wordpress Bug Bounty
+description: "Legitimate WordPress security research for bug bounty — verify CVEs at the source (NVD/WPScan, not social media), recon in-scope plugin/theme code, reproduce findings on a local WP install you own, and write platform-ready reports (HackerOne/Intigriti/Patchstack/WPScan). Authorization-first. No mass exploitation."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

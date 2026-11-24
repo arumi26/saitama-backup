@@ -1,0 +1,6 @@
+name: techstack_correlation
+title: Techstack Correlation
+description: "Correlation, confidence scoring, and conflict resolution across all tech-stack signals. Cross-validates and assigns High/Medium/Low confidence per technology."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

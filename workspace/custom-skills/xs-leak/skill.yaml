@@ -1,0 +1,6 @@
+name: xs_leak
+title: "XS-Leaks (Cross-Site Leaks)"
+description: "xs-leak, cross-site leak, xsleak, timing attack, frame counting, cache probing, cross-origin leak, status code oracle"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

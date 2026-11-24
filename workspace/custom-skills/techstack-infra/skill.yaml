@@ -1,0 +1,6 @@
+name: techstack_infra
+title: Techstack Infra
+description: "Infrastructure tech-stack identification — cloud providers, CDN/WAF, DNS services, TLS/CT, DevOps tooling, plus asset discovery (domains, subdomains, IPs)."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

@@ -1,0 +1,6 @@
+name: web_sdk_postmessage_audit
+title: Web Sdk Postmessage Audit
+description: "Audit embeddable client-side JS SDKs / widgets (chat, payment, auth, health/symptom-checker, maps, support widgets) for postMessage trust-boundary bugs — window \"message\" listeners that act on event.data WITHOUT validating event.origin / event.source. Covers bundle recon, listener + sink enumeration, tracing an attacker-controlled payload field into a dangerous sink (iframe src, innerHTML, clipboard write, onDataReceived callback, location), building a two-origin local PoC that proves cross-origin control, headless-browser evidence capture, and honest severity triage. Use when a target ships an embeddable script/widget, loads a third-party SDK, or any page registers addEventListener(\"message\") and you suspect the sender isn't verified."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

@@ -1,0 +1,6 @@
+name: writeup
+title: "Writing the Report"
+description: "Phase 07, for every finding."
+category: "Security · Reporting"
+include_in_prompt: false
+source: superagent_v10_ironclaw

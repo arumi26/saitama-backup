@@ -1,0 +1,6 @@
+name: xxe
+title: "XXE"
+description: "Any XML intake — SOAP, SAML, SVG, DOCX/XLSX, RSS, config import."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

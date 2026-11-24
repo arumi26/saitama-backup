@@ -1,0 +1,6 @@
+name: web_app_logic
+title: Web App Logic
+description: "Web application logic testing - business logic flaws, race conditions, access control, cache poisoning/deception, and information disclosure."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

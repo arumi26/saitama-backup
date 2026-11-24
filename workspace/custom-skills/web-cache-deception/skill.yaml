@@ -1,0 +1,6 @@
+name: web_cache_deception
+title: "Web Cache Deception"
+description: "web cache deception, cache deception, path confusion cache, cached private page, .css suffix cache"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

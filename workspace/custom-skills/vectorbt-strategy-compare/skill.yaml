@@ -1,0 +1,6 @@
+name: vectorbt_strategy_compare
+title: Vectorbt Strategy Compare
+description: "Compare multiple strategies or directions (long vs short vs both) on the same symbol. Generates side-by-side stats table."
+category: Finance
+include_in_prompt: false
+source: marketcalls_vectorbt-backtesting-skills

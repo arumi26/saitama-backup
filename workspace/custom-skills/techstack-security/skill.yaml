@@ -1,0 +1,6 @@
+name: techstack_security
+title: Techstack Security
+description: "Security-posture and third-party SaaS identification — security headers, CSP, HSTS, email auth, security.txt, plus payments/analytics/auth/CRM/support integrations."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

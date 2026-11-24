@@ -1,0 +1,6 @@
+name: token_scan
+title: "Token / Rug Scanner"
+description: "A token/meme contract to assess for rug/honeypot."
+category: "Security · Web3"
+include_in_prompt: false
+source: superagent_v10_ironclaw

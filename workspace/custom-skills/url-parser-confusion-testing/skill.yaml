@@ -1,0 +1,6 @@
+name: url_parser_confusion_testing
+title: Url Parser Confusion Testing
+description: "Detect SSRF filter bypasses and URL-parsing inconsistencies caused by malformed URL syntax — triple-slash (http:///host/path), backslashes, encoded delimiters, userinfo, numeric IP forms, IPv4-mapped IPv6. Use when reviewing URL validation, hostname allowlists, SSRF protections, redirect handling, or any code that parses user-supplied URLs (curl/libcurl CURLU, WHATWG URL, Python urllib, Node, Go, Java). Reproduces and extends HackerOne #3923212 (curl URL API triple-slash). Produces parser-differential reports, PoC variants, and remediation guidance."
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

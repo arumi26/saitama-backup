@@ -1,0 +1,6 @@
+name: web3_grep_arsenal
+title: Web3 Grep Arsenal
+description: "Master grep command arsenal for Web3 smart contract auditing. Use when starting a new protocol scan, before deep code review, or when hunting specific vulnerability classes."
+category: Security
+include_in_prompt: false
+source: awarexone_web3-bug-bounty-hunting-ai-skills

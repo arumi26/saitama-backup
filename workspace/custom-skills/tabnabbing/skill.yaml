@@ -1,0 +1,6 @@
+name: tabnabbing
+title: "Reverse Tabnabbing"
+description: "tabnabbing, reverse tabnabbing, window.opener, target blank, noopener, opener redirect"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

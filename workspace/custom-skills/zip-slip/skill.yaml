@@ -1,0 +1,6 @@
+name: zip_slip
+title: "Zip Slip / Path Traversal in Archives"
+description: "zip slip, archive traversal, tar slip, zip extraction, path traversal upload, ../ in zip, symlink archive"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

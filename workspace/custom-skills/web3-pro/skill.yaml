@@ -1,0 +1,6 @@
+name: web3_pro
+title: Web3 Pro
+description: "Build dApps on EVM chains: wallet connection, providers and signers, contract reads/writes, gas estimation, events, and chain handling. Use when a frontend needs to talk to a blockchain."
+category: Development
+include_in_prompt: false
+source: aicodedecode_awesome-muse-skills

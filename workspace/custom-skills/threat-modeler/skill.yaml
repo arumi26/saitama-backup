@@ -1,0 +1,5 @@
+name: threat_modeler
+title: Threat Modeler
+description: "Run structured threat-modeling sessions (STRIDE, attack trees, DREAD) to find design-level flaws before code is written."
+category: Security
+include_in_prompt: false

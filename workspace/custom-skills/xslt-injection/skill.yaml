@@ -1,0 +1,6 @@
+name: xslt_injection
+title: "XSLT Injection"
+description: "xslt injection, xsl injection, xml transformation, document(), php:function, xslt rce, xslt file read"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

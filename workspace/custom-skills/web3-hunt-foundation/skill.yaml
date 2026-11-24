@@ -1,0 +1,6 @@
+name: web3_hunt_foundation
+title: Web3 Hunt Foundation
+description: "Hunter mindset, recon setup, and target scoring for Web3 bug bounty. Use at the START of any new protocol hunt - scoring targets, setting up environment, understanding architecture."
+category: Security
+include_in_prompt: false
+source: awarexone_web3-bug-bounty-hunting-ai-skills

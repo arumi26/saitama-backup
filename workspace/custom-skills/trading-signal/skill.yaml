@@ -1,0 +1,6 @@
+name: trading_signal
+title: Trading Signal
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

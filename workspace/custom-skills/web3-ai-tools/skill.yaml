@@ -1,0 +1,6 @@
+name: web3_ai_tools
+title: Web3 Ai Tools
+description: "AI-powered tools for Web3 bug bounty automation. Use when you want to automate recon, run autonomous audits, or use AI agents for vulnerability discovery."
+category: Security
+include_in_prompt: false
+source: awarexone_web3-bug-bounty-hunting-ai-skills

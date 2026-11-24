@@ -1,0 +1,6 @@
+name: tabletopexercise
+title: Tabletopexercise
+description: "Comprehensive cybersecurity tabletop exercise design and facilitation framework. USE WHEN designing incident response scenarios, creating executive or technical tabletops, generating atomics for exercise runners, identifying missing SOPs/playbooks, or evaluating organizational preparedness. Includes threat model integration, CISA-aligned methodologies, and automated gap analysis."
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

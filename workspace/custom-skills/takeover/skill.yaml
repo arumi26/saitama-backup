@@ -1,0 +1,6 @@
+name: takeover
+title: "Subdomain / Resource Takeover"
+description: "Phase 01 after resolving — clean quick win."
+category: "Security · Recon"
+include_in_prompt: false
+source: superagent_v10_ironclaw

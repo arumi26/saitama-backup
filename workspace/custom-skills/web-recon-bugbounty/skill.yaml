@@ -1,0 +1,6 @@
+name: web_recon_bugbounty
+title: Web Recon Bugbounty
+description: ">"
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

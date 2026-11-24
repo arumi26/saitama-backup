@@ -1,0 +1,6 @@
+name: validation_gate
+title: "The 7-Question Validation Gate"
+description: "Phase 06 — the 7-Gate before any report."
+category: "Security · Reporting"
+include_in_prompt: false
+source: superagent_v10_ironclaw

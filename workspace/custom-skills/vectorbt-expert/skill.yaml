@@ -1,0 +1,6 @@
+name: vectorbt_expert
+title: Vectorbt Expert
+description: "VectorBT backtesting expert. Use when user asks to backtest strategies, create entry/exit signals, analyze portfolio performance, optimize parameters, fetch historical data, use VectorBT/vectorbt, compare strategies, position sizing, equity curves, drawdown charts, or trade analysis. Also triggers for openalgo.ta helpers (exrem, crossover, crossunder, flip, donchian, supertrend)."
+category: Finance
+include_in_prompt: false
+source: marketcalls_vectorbt-backtesting-skills

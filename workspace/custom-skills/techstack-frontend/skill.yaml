@@ -1,0 +1,6 @@
+name: techstack_frontend
+title: Techstack Frontend
+description: "Frontend tech-stack identification — JavaScript frameworks, meta-frameworks, CSS frameworks, UI libraries, build tools, and CMS via DOM, JS globals, HTML, and bundle patterns."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

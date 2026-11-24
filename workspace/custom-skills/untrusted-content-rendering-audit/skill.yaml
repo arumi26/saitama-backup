@@ -1,0 +1,6 @@
+name: untrusted_content_rendering_audit
+title: Untrusted Content Rendering Audit
+description: "Source-review methodology for web apps that re-render strings controlled by an untrusted third party — marketplace listings, agent/AI output, on-chain data, user profiles, uploaded deliverables, CMS bodies, link-preview/OG cards. Covers sink enumeration (dangerouslySetInnerHTML, href/src/iframe src), provenance tracing from attacker field to sink, the escape-before-markup invariant for hand-rolled Markdown/HTML renderers, CSP as the backstop, iframe sandboxing, and the companion SSRF-guard review for any server route that fetches a user-supplied URL. Use when auditing a dApp/SaaS frontend where one user's data is displayed to another, or when reviewing a custom Markdown renderer, an /api/og image route, or a deliverable/attachment preview pipeline."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

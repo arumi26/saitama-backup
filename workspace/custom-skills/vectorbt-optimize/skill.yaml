@@ -1,0 +1,6 @@
+name: vectorbt_optimize
+title: Vectorbt Optimize
+description: "Optimize strategy parameters using VectorBT. Tests parameter combinations and generates heatmaps."
+category: Finance
+include_in_prompt: false
+source: marketcalls_vectorbt-backtesting-skills

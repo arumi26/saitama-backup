@@ -1,0 +1,6 @@
+name: virtual_hosts
+title: "Virtual Host Discovery & Routing Abuse"
+description: "virtual host, vhost, vhost fuzzing, host header routing, hidden vhost, internal vhost, host header bypass"
+category: "Security · Recon"
+include_in_prompt: false
+source: superagent_v10_ironclaw

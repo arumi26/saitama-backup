@@ -1,0 +1,6 @@
+name: techstack_identification
+title: Techstack Identification
+description: "OSINT-based technology stack identification. Routes to 6 domain sub-skills (frontend, backend, infra, security, osint, correlation) to discover a target's stack from publicly available signals."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools
