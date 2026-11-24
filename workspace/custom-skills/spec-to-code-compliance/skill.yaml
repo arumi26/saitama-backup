@@ -1,0 +1,6 @@
+name: spec_to_code_compliance
+title: Spec To Code Compliance
+description: "Check code against the documentation that specifies it - which requirements hold, which the code contradicts, which are absent, and what the code does that no document mentions. Use when comparing an implementation against a whitepaper, protocol spec, or design document."
+category: Security
+include_in_prompt: false
+source: trailofbits_skills

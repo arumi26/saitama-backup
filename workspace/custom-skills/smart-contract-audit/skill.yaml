@@ -1,0 +1,6 @@
+name: smart_contract_audit
+title: Smart Contract Audit
+description: "Any smart contract audit (7 blockchain platforms)"
+category: Security
+include_in_prompt: false
+source: prize22_bountyforge-4.1

@@ -1,0 +1,6 @@
+name: solana_bug_bounty_recon
+title: Solana Bug Bounty Recon
+description: "Bug bounty recon workflow untuk Solana launchpad / DeFi programs — extract IDL from frontend, decode Anchor accounts via Borsh, map attack surface, simulate malicious tx tanpa broadcast (sigVerify=false), fuzz account substitution."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

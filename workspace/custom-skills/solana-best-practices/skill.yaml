@@ -1,0 +1,6 @@
+name: solana_best_practices
+title: Solana Best Practices
+description: "Reviews Solana/Anchor programs for development best practices. Use when writing, reviewing, improving or auditing Solana smart contracts. 31 vulnerability patterns with 4 real-world case studies."
+category: Security
+include_in_prompt: false
+source: gabrielkoerich_skills

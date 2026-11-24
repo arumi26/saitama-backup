@@ -1,0 +1,6 @@
+name: smart_contract_security
+title: Smart Contract Security
+description: "Guide for EVM/solidity smart contract security work: vulnerability taxonomy, review workflow, and where to place resources in README.md."
+category: Security
+include_in_prompt: false
+source: gmh5225_awesome-web3-security

@@ -1,0 +1,6 @@
+name: solana_anchor_recon
+title: Solana Anchor Recon
+description: "Recon a Solana Anchor program for bug bounty — extract IDL from frontend JS, decode on-chain accounts, probe admin auth via simulateTransaction, all without spending SOL."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

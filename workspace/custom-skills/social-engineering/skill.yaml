@@ -1,0 +1,6 @@
+name: social_engineering
+title: Social Engineering
+description: "Social engineering testing - phishing, pretexting, vishing, and physical security assessment techniques."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

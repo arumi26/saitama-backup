@@ -1,0 +1,6 @@
+name: solana_security
+title: Solana Security
+description: "Guide for Solana/Sealevel security research and where to organize Solana-specific resources in README.md."
+category: Security
+include_in_prompt: false
+source: gmh5225_awesome-web3-security

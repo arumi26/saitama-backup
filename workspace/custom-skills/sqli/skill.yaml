@@ -1,0 +1,6 @@
+name: sqli
+title: "SQL / NoSQL Injection"
+description: "Any param reaching a DB query (search/filter/sort/id/login/import)."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: solidity_auditor
+title: Solidity Auditor
+description: "Security audit of Solidity code while you develop. Trigger on \"audit\", \"check this contract\", \"review for security\", \"loop mode\", \"run the auditor in loop mode\", \"run 3 passes\". Modes - default (full repo) or a specific filename. Loop mode runs several passes in one scan, each pass told what the earlier ones found, and ends in one combined report; it remembers findings between scans in a ledger."
+category: Security
+include_in_prompt: false
+source: pashov_skills

@@ -1,0 +1,6 @@
+name: solana_pro
+title: Solana Pro
+description: "Build Solana programs with Anchor: accounts model, PDAs, CPIs, SPL tokens, testing on local validator, and devnet/mainnet deployment. Use when developing on Solana."
+category: Development
+include_in_prompt: false
+source: aicodedecode_awesome-muse-skills

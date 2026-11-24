@@ -1,0 +1,6 @@
+name: square_post
+title: Square Post
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

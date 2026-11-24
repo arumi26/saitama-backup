@@ -1,0 +1,6 @@
+name: solidity_pro
+title: Solidity Pro
+description: "Write secure, gas-efficient Solidity smart contracts for EVM chains: tokens, vaults, access control, upgrade patterns, testing and audit checklists. Use when developing or reviewing on-chain contracts."
+category: Development
+include_in_prompt: false
+source: aicodedecode_awesome-muse-skills

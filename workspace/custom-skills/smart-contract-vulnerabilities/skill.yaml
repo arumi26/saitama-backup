@@ -1,0 +1,6 @@
+name: smart_contract_vulnerabilities
+title: Smart Contract Vulnerabilities
+description: ">-"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

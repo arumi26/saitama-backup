@@ -1,0 +1,6 @@
+name: solidity_security_audit
+title: Solidity Security Audit
+description: ">"
+category: Security
+include_in_prompt: false
+source: mariano-aguero_solidity-security-audit-skill

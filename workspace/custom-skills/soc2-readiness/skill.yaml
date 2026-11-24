@@ -1,0 +1,6 @@
+name: soc2_readiness
+title: Soc2 Readiness
+description: "Prepare an organization for a SOC 2 Type I or II audit — trust services criteria mapping, evidence collection, control implementation, and remediation planning. Use when starting a SOC 2 journey or preparing for an audit window."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

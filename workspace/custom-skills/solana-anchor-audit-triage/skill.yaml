@@ -1,0 +1,6 @@
+name: solana_anchor_audit_triage
+title: Solana Anchor Audit Triage
+description: "Triage a cloned Solana Anchor repo for audit-worthiness."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills
