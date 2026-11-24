@@ -1,0 +1,6 @@
+name: deobfuscation
+title: "Deobfuscation & Anti-Analysis"
+description: "Binary packed/obfuscated or fights the debugger."
+category: "Security · Reverse Engineering"
+include_in_prompt: false
+source: superagent_v10_ironclaw

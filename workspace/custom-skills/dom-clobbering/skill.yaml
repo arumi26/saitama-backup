@@ -1,0 +1,6 @@
+name: dom_clobbering
+title: "DOM Clobbering"
+description: "dom clobbering, clobbering, named element, html injection, getElementById override, window property override"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

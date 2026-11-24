@@ -1,0 +1,6 @@
+name: defi_attack_patterns
+title: Defi Attack Patterns
+description: ">-"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

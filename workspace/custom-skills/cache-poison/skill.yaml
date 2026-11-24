@@ -1,0 +1,6 @@
+name: cache_poison
+title: "Cache Poisoning / Deception"
+description: "CDN/edge-cached apps; unkeyed inputs influencing responses."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

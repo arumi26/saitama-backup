@@ -1,0 +1,6 @@
+name: code_sleuth
+title: Code Sleuth
+description: "EVM storage-safety vulnerability analysis"
+category: Security
+include_in_prompt: false
+source: prize22_bountyforge-4.1

@@ -1,0 +1,6 @@
+name: crypto_bug_bounty
+title: Crypto Bug Bounty
+description: "Full-spectrum workflow for finding and reporting smart contract vulnerabilities on DeFi protocols for bug bounty rewards (Immunefi, HackerOne, Code4rena, Sherlock)."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

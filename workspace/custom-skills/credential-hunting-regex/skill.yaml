@@ -1,0 +1,6 @@
+name: credential_hunting_regex
+title: Credential Hunting Regex
+description: "High-quality regex patterns for finding leaked credentials in web apps via Chrome DevTools and Burp Suite. From h4x0r-dz/Leaked-Credentials."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

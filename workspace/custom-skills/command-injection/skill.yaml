@@ -1,0 +1,6 @@
+name: command_injection
+title: "OS Command Injection"
+description: "command injection, os command injection, rce, shell injection, cmd injection, command execution, system()"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

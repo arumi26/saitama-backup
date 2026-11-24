@@ -1,0 +1,6 @@
+name: cryptography
+title: Cryptography
+description: "Cryptanalysis techniques — lattice attacks, padding oracles, weak-RNG exploitation, signature forgery, secret-sharing recovery."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

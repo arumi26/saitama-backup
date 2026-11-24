@@ -1,0 +1,6 @@
+name: ci_cd
+title: "CI/CD & Supply Chain"
+description: "Public repos, build configs, package manifests."
+category: "Security · Cloud/Infra"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: content_discovery
+title: "Content & Param Discovery"
+description: "Phase 01/03 per host, for hidden functionality."
+category: "Security · Recon"
+include_in_prompt: false
+source: superagent_v10_ironclaw

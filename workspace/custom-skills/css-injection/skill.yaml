@@ -1,0 +1,6 @@
+name: css_injection
+title: "CSS Injection"
+description: "css injection, style injection, css exfiltration, attribute selector leak, css keylogger, scoped style"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

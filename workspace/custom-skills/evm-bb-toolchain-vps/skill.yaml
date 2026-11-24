@@ -1,0 +1,6 @@
+name: evm_bb_toolchain_vps
+title: Evm Bb Toolchain Vps
+description: "Install and verify a full EVM bug-bounty toolchain (Foundry, Slither, Aderyn, Echidna) on a remote VPS over SSH, then prove it works with a deliberately-vulnerable demo contract + green Foundry PoC. Use when setting up a fresh audit box, or when a box hits \"no space left on device\"."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

@@ -1,0 +1,5 @@
+name: ctf_prompt_injection_llm_red_teaming
+title: CTF Prompt-Injection / LLM Red-Teaming
+description: prompt injection, LLM red-team, jailbreak challenge, Gandalf, Lakera, Mosscap, OWASP LLM01, AI challenge, extract system prompt, leak secret from LLM, dispatched by ctf-whitehat-toolkit-2 AI/LLM.
+category: Work and knowledge
+include_in_prompt: false

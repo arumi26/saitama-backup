@@ -1,0 +1,5 @@
+name: daily_assistant_ii_watchdog_vault_triage
+title: 'Daily Assistant II: Watchdog/Vault/Triage'
+description: watchdog, restart kalau mati, simpen alamat, macro, voice note, screenshot, triage.
+category: Work and knowledge
+include_in_prompt: false

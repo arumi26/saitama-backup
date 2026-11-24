@@ -1,0 +1,6 @@
+name: container_image_hardening
+title: Container Image Hardening
+description: "Harden Dockerfiles and container images — multi-stage builds, non-root users, minimal base images, and vulnerability gates. Use when building production containers or reviewing Dockerfiles."
+category: Security
+include_in_prompt: false
+source: securityskills_skills

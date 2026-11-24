@@ -1,0 +1,5 @@
+name: daily_assistant_briefing_alerts
+title: 'Daily Assistant: Briefing & Alerts'
+description: briefing, ringkasan harian, alert, kabarin kalau, pantau harga, alarm.
+category: Work and knowledge
+include_in_prompt: false

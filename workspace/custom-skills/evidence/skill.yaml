@@ -1,0 +1,5 @@
+name: evidence
+title: Evidence
+description: Keep claims verifiable — the observed/inferred/recalled protocol, evidence bundles, redaction, timestamps, and reproduction hygiene.
+category: Work and knowledge
+include_in_prompt: false

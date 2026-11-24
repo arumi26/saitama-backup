@@ -1,0 +1,6 @@
+name: client_side_path_traversal
+title: "Client-Side Path Traversal (CSPT)"
+description: "client side path traversal, cspt, frontend path traversal, api path manipulation, fetch path traversal, ../ in api call"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

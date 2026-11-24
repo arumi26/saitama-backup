@@ -1,0 +1,6 @@
+name: csrf
+title: "CSRF"
+description: "Cookie-authed state-changing request without strong anti-CSRF."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

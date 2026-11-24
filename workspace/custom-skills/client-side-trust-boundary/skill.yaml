@@ -1,0 +1,6 @@
+name: client_side_trust_boundary
+title: Client Side Trust Boundary
+description: "Exploit web games/apps where the server trusts client-reported state (durations, scores, click counts, mission flags). Includes direct API fuzzing of trusted fields with curl, React fiber manipulation to force UI states without playing, and Playwright automation of canvas games. Use when an app POSTs client-computed metrics and you suspect the server doesn't re-validate."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

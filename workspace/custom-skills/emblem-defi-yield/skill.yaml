@@ -1,0 +1,6 @@
+name: emblem_defi_yield
+title: Emblem Defi Yield
+description: "DeFi yield research and liquid staking via EmblemAI. Discover yield opportunities, compare protocols, check DeFi positions with Nansen, and enter liquid staking via token swaps. Use when the user wants to research yields, find staking options, or review DeFi positions."
+category: Finance
+include_in_prompt: false
+source: emblemcompany_agent-skills

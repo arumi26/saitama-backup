@@ -1,0 +1,6 @@
+name: client_auditor
+title: Client Auditor
+description: ">"
+category: Security
+include_in_prompt: false
+source: DarkNavySecurity_web3-skills

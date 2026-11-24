@@ -1,0 +1,5 @@
+name: ctf_forensics_stego_2
+title: CTF Forensics & Stego
+description: CTF forensics, stego, steganography, pcap, memory dump, volatility, binwalk, carving, exiftool, zsteg, steghide, file identification, USB keystroke, DNS exfil, dispatched by ctf-whitehat-toolkit-2 forensics.
+category: Work and knowledge
+include_in_prompt: false

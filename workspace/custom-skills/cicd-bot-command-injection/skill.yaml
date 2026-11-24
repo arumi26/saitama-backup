@@ -1,0 +1,6 @@
+name: cicd_bot_command_injection
+title: Cicd Bot Command Injection
+description: ">"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

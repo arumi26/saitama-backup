@@ -1,0 +1,6 @@
+name: bypass_403
+title: Bypass 403
+description: "Bypass HTTP 403/401 access controls — path tricks, header tricks, method tricks, and WAF/proxy ACL evasion. Use when a bug bounty target returns 403/401 on an interesting path (admin panels, /api/internal, backups, config files) and you want to enumerate bypass variants. Includes a hardened bash scanner plus the correct curl invocation patterns that the popular iamj0ker/bypass-403 script gets wrong."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

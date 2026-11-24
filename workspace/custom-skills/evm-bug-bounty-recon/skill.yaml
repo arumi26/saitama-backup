@@ -1,0 +1,6 @@
+name: evm_bug_bounty_recon
+title: Evm Bug Bounty Recon
+description: ">"
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

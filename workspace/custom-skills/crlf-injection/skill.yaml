@@ -1,0 +1,6 @@
+name: crlf_injection
+title: "CRLF Injection / HTTP Response Splitting"
+description: "crlf injection, http response splitting, header injection, response splitting, %0d%0a, log injection, set-cookie injection"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

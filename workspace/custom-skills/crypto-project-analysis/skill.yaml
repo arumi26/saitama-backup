@@ -1,0 +1,6 @@
+name: crypto_project_analysis
+title: Crypto Project Analysis
+description: "Analyze crypto/Web3 projects for scam indicators — domain age, team doxxing, smart contract audits, wallet drainer detection, social proof, gamification red flags."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

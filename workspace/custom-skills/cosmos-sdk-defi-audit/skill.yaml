@@ -1,0 +1,6 @@
+name: cosmos_sdk_defi_audit
+title: Cosmos Sdk Defi Audit
+description: "Bug-bounty audit methodology for Cosmos SDK DeFi chains written in Go (x/ modules: amm/dex, perpetual, leveragelp, stablestake, oracle, masterchef). Clone the chain repo, triage modules by LOC, map the oracle price path and its consumers, and hunt DeFi bug classes: stale/unchecked oracle price, spec-vs-implementation drift, rounding/precision loss in Dec/BigDec math, weight-breaking-fee sign errors, liquidation/health mispricing, and BeginBlocker/EndBlocker DoS. Use for any Cosmos-SDK-based lending/perp/AMM protocol (Elys, Osmosis forks, Injective-style, etc.)."
+category: Security
+include_in_prompt: false
+source: rickyananda_hermes-skills

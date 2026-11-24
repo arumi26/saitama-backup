@@ -1,0 +1,6 @@
+name: dynamic_re
+title: "Dynamic RE"
+description: "When static is ambiguous or a runtime check must be defeated."
+category: "Security · Reverse Engineering"
+include_in_prompt: false
+source: superagent_v10_ironclaw

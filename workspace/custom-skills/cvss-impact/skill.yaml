@@ -1,0 +1,6 @@
+name: cvss_impact
+title: "CVSS & Impact"
+description: "Phase 06/07, to set/justify severity."
+category: "Security · Reporting"
+include_in_prompt: false
+source: superagent_v10_ironclaw

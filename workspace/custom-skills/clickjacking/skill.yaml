@@ -1,0 +1,6 @@
+name: clickjacking
+title: "Clickjacking / UI Redress"
+description: "clickjacking, ui redress, iframe, x-frame-options, frame-busting, csp frame-ancestors, drag-drop"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

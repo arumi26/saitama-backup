@@ -1,0 +1,6 @@
+name: bugbountyworkflow
+title: Bugbountyworkflow
+description: "Bug bounty hunting workflow and report writing expertise. USE WHEN user mentions bug bounty, vulnerability report, HackerOne, Bugcrowd, PoC creation, severity assessment, CVSS scoring, responsible disclosure, or needs help writing security reports. Provides templates and workflow guidance."
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

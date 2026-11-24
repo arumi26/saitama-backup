@@ -1,0 +1,6 @@
+name: dns_rebinding
+title: "DNS Rebinding"
+description: "dns rebinding, rebind, ssrf dns, ip rebinding, localhost rebind, singularity, internal service access"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

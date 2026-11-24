@@ -1,0 +1,6 @@
+name: crypto_market_rank
+title: Crypto Market Rank
+description: "|"
+category: Security
+include_in_prompt: false
+source: binance_binance-skills-hub

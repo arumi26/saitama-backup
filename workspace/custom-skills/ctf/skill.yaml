@@ -1,0 +1,5 @@
+name: ctf
+title: CTF
+description: Solve CTF challenges across pwn, web, reversing, crypto, forensics, and misc with real tooling and an offsets-first method.
+category: Work and knowledge
+include_in_prompt: false

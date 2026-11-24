@@ -1,0 +1,6 @@
+name: coordination
+title: Coordination
+description: "Pentest coordination — orchestrates executor and validator agents with context-controlled spawning. Entry point for all engagements."
+category: Security
+include_in_prompt: false
+source: transilienceai_communitytools

@@ -1,0 +1,6 @@
+name: business_logic
+title: "Business Logic"
+description: "Any multi-step flow, pricing, quotas, permissions, state machine."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

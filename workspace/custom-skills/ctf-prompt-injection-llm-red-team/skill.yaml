@@ -1,0 +1,5 @@
+name: ctf_prompt_injection_llm_red_team
+title: CTF Prompt-Injection/LLM Red-Team
+description: CTF prompt injection, LLM red-team, jailbreak, Gandalf, Lakera, Mosscap, OWASP LLM01.
+category: Work and knowledge
+include_in_prompt: false

@@ -1,0 +1,6 @@
+name: bug_hunting
+title: Bug Hunting
+description: "Bug bounty hunting and penetration testing skills for Claude, Codex, and other agentic AI tools."
+category: Security
+include_in_prompt: false
+source: m4vic_bug-hunting

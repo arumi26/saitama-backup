@@ -1,0 +1,6 @@
+name: contract_auditor
+title: Contract Auditor
+description: ">"
+category: Security
+include_in_prompt: false
+source: DarkNavySecurity_web3-skills

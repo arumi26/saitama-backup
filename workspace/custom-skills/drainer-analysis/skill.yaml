@@ -1,0 +1,5 @@
+name: drainer_analysis
+title: Drainer Analysis
+description: analyze drainer bytecode, wallet drain, approval abuse, permit2 exploit, EVM forensic.
+category: Work and knowledge
+include_in_prompt: false

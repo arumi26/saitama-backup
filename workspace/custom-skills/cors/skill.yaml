@@ -1,0 +1,6 @@
+name: cors
+title: "CORS Misconfiguration"
+description: "Any API returning sensitive data with CORS headers."
+category: "Security · Web Exploitation"
+include_in_prompt: false
+source: superagent_v10_ironclaw

@@ -1,0 +1,6 @@
+name: disclosure
+title: "Disclosure & Triage"
+description: "Phases 07-09."
+category: "Security · Reporting"
+include_in_prompt: false
+source: superagent_v10_ironclaw

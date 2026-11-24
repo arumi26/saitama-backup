@@ -1,0 +1,6 @@
+name: cloud_misconfig
+title: "Cloud Misconfiguration"
+description: "AWS/GCP/Azure target; after SSRF or when buckets/keys surface."
+category: "Security · Cloud/Infra"
+include_in_prompt: false
+source: superagent_v10_ironclaw

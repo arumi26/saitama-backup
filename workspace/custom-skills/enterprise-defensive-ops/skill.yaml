@@ -1,0 +1,5 @@
+name: enterprise_defensive_ops
+title: Enterprise & Defensive Ops
+description: KQL, azure, log analytics, HIDS, auto firewall, intrusion, kusto, sentinel.
+category: Work and knowledge
+include_in_prompt: false

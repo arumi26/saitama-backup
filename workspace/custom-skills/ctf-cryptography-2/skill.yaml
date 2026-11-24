@@ -1,0 +1,5 @@
+name: ctf_cryptography_2
+title: CTF Cryptography
+description: CTF crypto, RSA attack, Wiener, Hastad, common modulus, Coppersmith, padding oracle, nonce reuse, LCG, Mersenne twister, hash length extension, ECDSA, dispatched by ctf-whitehat-toolkit-2 crypto.
+category: Work and knowledge
+include_in_prompt: false

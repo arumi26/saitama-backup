@@ -1,0 +1,5 @@
+name: contract_change_claim_address_watcher
+title: Contract-Change & Claim-Address Watcher
+description: kontrak berubah, proxy upgrade, claim address, aman claim gak, watch kontrak.
+category: Finance
+include_in_prompt: false

@@ -1,0 +1,6 @@
+name: csp_bypass_advanced
+title: Csp Bypass Advanced
+description: ">-"
+category: Security
+include_in_prompt: false
+source: Security-Talent_bugskill-ai

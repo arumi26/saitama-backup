@@ -1,0 +1,6 @@
+name: csv_injection
+title: "CSV / Formula Injection"
+description: "csv injection, formula injection, excel injection, spreadsheet injection, =cmd, DDE, export injection"
+category: "Security · Web"
+include_in_prompt: false
+source: superagent_v10_ironclaw

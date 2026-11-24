@@ -1,0 +1,5 @@
+name: dependency_scanner
+title: Dependency Scanner
+description: "Manage software composition analysis — SBOMs, vulnerability triage, and remediation of third-party dependencies."
+category: Security
+include_in_prompt: false
